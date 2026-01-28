@@ -17,7 +17,7 @@ In this work, we present systematic insights into the cascading nature of delaye
 The experiments are based on a large-scale industrial dataset from Alibaba, capturing multi-stage user behaviors including click, add-to-cart, payment, and refund, with precise timestamps for modeling delay dynamics.
 
 👉 **Dataset Information**:  
-[CASCADE Dataset]() *(Coming Soon – Access will be available upon paper acceptance)*
+[CASCADE Dataset]() *(Coming Soon)*
 
 > 🔒 Note: Due to data privacy policies, the full raw dataset cannot be publicly released. A processed benchmark version with anonymized features will be made available for research purposes.
 
@@ -48,7 +48,6 @@ Below are the baseline models included in this benchmark, along with their origi
 | [DDFM](https://dl.acm.org/doi/10.1145/3583780.3614856)                      | `ali_reddfm_stream_train.py`             |
 | [TESLA (Ours)](./NetCVR-TESLA-paperpdf)                             | `ali_TESLA_stream_train.py`              |
 
-> 🔗 **Note**: The full paper for TESLA will be updated upon publication. For now, please refer to the technical report or contact the authors.
 
 
 ## 📁 Project Structure
