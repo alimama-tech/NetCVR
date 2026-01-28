@@ -1,0 +1,2126 @@
+2025-10-09 14:14:23,173-Epoch 1 Day 0- Mean Loss: 0.89788
+2025-10-09 14:14:23,174-Epoch 1 train day 0: CVR_AUC: 0.68602
+2025-10-09 14:14:23,174-Epoch 1 train day 0: NetCVR_AUC: 0.68766
+2025-10-09 14:14:23,174-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:14:36,117-Model saved at Epoch 1 , Day 0 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:14:36,126-Testing best model with test set!
+2025-10-09 14:14:38,176-stream_model_Global_CVR_AUC: 0.73959
+2025-10-09 14:14:38,176-stream_model_Global_NetCVR_AUC: 0.74919
+2025-10-09 14:14:38,176-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74796
+2025-10-09 14:14:38,176-stream_model_Global_CVR_NLL: 0.21292
+2025-10-09 14:14:38,176-stream_model_Global_NetCVR_NLL: 0.17211
+2025-10-09 14:14:38,176-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17633
+2025-10-09 14:14:38,176-stream_model_Global_CVR_PCOC: 1.08676
+2025-10-09 14:14:38,176-stream_model_Global_NetCVR_PCOC: 1.10632
+2025-10-09 14:14:38,176-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.45096
+2025-10-09 14:14:38,177-stream_model_Global_CVR_PRAUC: 0.16561
+2025-10-09 14:14:38,177-stream_model_Global_NetCVR_PRAUC: 0.13188
+2025-10-09 14:14:38,177-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13093
+2025-10-09 14:14:38,177-pretrained_model_Global_CVR_AUC: 0.73137
+2025-10-09 14:14:38,177-pretrained_model_Global_NetCVR_AUC: 0.74403
+2025-10-09 14:14:38,177-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74017
+2025-10-09 14:14:38,177-pretrained_model_Global_CVR_NLL: 0.21679
+2025-10-09 14:14:38,177-pretrained_model_Global_NetCVR_NLL: 0.17402
+2025-10-09 14:14:38,177-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17330
+2025-10-09 14:14:38,177-pretrained_model_Global_CVR_PCOC: 0.76412
+2025-10-09 14:14:38,177-pretrained_model_Global_NetCVR_PCOC: 0.82028
+2025-10-09 14:14:38,177-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.02020
+2025-10-09 14:14:38,177-pretrained_model_Global_CVR_PRAUC: 0.15606
+2025-10-09 14:14:38,177-pretrained_model_Global_NetCVR_PRAUC: 0.12495
+2025-10-09 14:14:38,177-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.12432
+2025-10-09 14:14:40,452-Epoch 1 Day 1- Mean Loss: 0.77872
+2025-10-09 14:14:40,452-Epoch 1 train day 1: CVR_AUC: 0.71725
+2025-10-09 14:14:40,452-Epoch 1 train day 1: NetCVR_AUC: 0.71985
+2025-10-09 14:14:40,452-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:14:53,048-Model saved at Epoch 1 , Day 1 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:14:53,059-Testing best model with test set!
+2025-10-09 14:14:56,291-stream_model_Global_CVR_AUC: 0.70484
+2025-10-09 14:14:56,291-stream_model_Global_NetCVR_AUC: 0.71625
+2025-10-09 14:14:56,291-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.71436
+2025-10-09 14:14:56,291-stream_model_Global_CVR_NLL: 0.24161
+2025-10-09 14:14:56,291-stream_model_Global_NetCVR_NLL: 0.19100
+2025-10-09 14:14:56,291-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19729
+2025-10-09 14:14:56,291-stream_model_Global_CVR_PCOC: 1.13439
+2025-10-09 14:14:56,291-stream_model_Global_NetCVR_PCOC: 1.19786
+2025-10-09 14:14:56,291-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.56675
+2025-10-09 14:14:56,291-stream_model_Global_CVR_PRAUC: 0.16473
+2025-10-09 14:14:56,291-stream_model_Global_NetCVR_PRAUC: 0.13718
+2025-10-09 14:14:56,291-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13404
+2025-10-09 14:14:56,291-pretrained_model_Global_CVR_AUC: 0.69551
+2025-10-09 14:14:56,291-pretrained_model_Global_NetCVR_AUC: 0.71168
+2025-10-09 14:14:56,291-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.70896
+2025-10-09 14:14:56,291-pretrained_model_Global_CVR_NLL: 0.24573
+2025-10-09 14:14:56,291-pretrained_model_Global_NetCVR_NLL: 0.19104
+2025-10-09 14:14:56,292-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.19069
+2025-10-09 14:14:56,292-pretrained_model_Global_CVR_PCOC: 0.77015
+2025-10-09 14:14:56,292-pretrained_model_Global_NetCVR_PCOC: 0.85206
+2025-10-09 14:14:56,292-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.06369
+2025-10-09 14:14:56,292-pretrained_model_Global_CVR_PRAUC: 0.16097
+2025-10-09 14:14:56,292-pretrained_model_Global_NetCVR_PRAUC: 0.13722
+2025-10-09 14:14:56,292-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13483
+2025-10-09 14:14:59,209-Epoch 1 Day 2- Mean Loss: 0.78085
+2025-10-09 14:14:59,209-Epoch 1 train day 2: CVR_AUC: 0.70349
+2025-10-09 14:14:59,209-Epoch 1 train day 2: NetCVR_AUC: 0.71317
+2025-10-09 14:14:59,209-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:15:13,217-Model saved at Epoch 1 , Day 2 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:15:13,228-Testing best model with test set!
+2025-10-09 14:15:21,353-stream_model_Global_CVR_AUC: 0.71800
+2025-10-09 14:15:21,353-stream_model_Global_NetCVR_AUC: 0.72790
+2025-10-09 14:15:21,353-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.72548
+2025-10-09 14:15:21,353-stream_model_Global_CVR_NLL: 0.23291
+2025-10-09 14:15:21,353-stream_model_Global_NetCVR_NLL: 0.18578
+2025-10-09 14:15:21,353-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18519
+2025-10-09 14:15:21,353-stream_model_Global_CVR_PCOC: 0.80566
+2025-10-09 14:15:21,353-stream_model_Global_NetCVR_PCOC: 0.80776
+2025-10-09 14:15:21,353-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.09368
+2025-10-09 14:15:21,353-stream_model_Global_CVR_PRAUC: 0.16736
+2025-10-09 14:15:21,354-stream_model_Global_NetCVR_PRAUC: 0.13896
+2025-10-09 14:15:21,354-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13688
+2025-10-09 14:15:21,354-pretrained_model_Global_CVR_AUC: 0.70407
+2025-10-09 14:15:21,354-pretrained_model_Global_NetCVR_AUC: 0.71874
+2025-10-09 14:15:21,354-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.71605
+2025-10-09 14:15:21,354-pretrained_model_Global_CVR_NLL: 0.23901
+2025-10-09 14:15:21,354-pretrained_model_Global_NetCVR_NLL: 0.18823
+2025-10-09 14:15:21,354-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18688
+2025-10-09 14:15:21,354-pretrained_model_Global_CVR_PCOC: 0.71663
+2025-10-09 14:15:21,354-pretrained_model_Global_NetCVR_PCOC: 0.77988
+2025-10-09 14:15:21,354-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.97282
+2025-10-09 14:15:21,354-pretrained_model_Global_CVR_PRAUC: 0.16093
+2025-10-09 14:15:21,354-pretrained_model_Global_NetCVR_PRAUC: 0.13600
+2025-10-09 14:15:21,354-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13501
+2025-10-09 14:15:28,588-Epoch 1 Day 3- Mean Loss: 0.73582
+2025-10-09 14:15:28,588-Epoch 1 train day 3: CVR_AUC: 0.72674
+2025-10-09 14:15:28,589-Epoch 1 train day 3: NetCVR_AUC: 0.73137
+2025-10-09 14:15:28,589-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:15:44,978-Model saved at Epoch 1 , Day 3 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:15:44,991-Testing best model with test set!
+2025-10-09 14:15:55,314-stream_model_Global_CVR_AUC: 0.74266
+2025-10-09 14:15:55,314-stream_model_Global_NetCVR_AUC: 0.75063
+2025-10-09 14:15:55,314-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74929
+2025-10-09 14:15:55,314-stream_model_Global_CVR_NLL: 0.22094
+2025-10-09 14:15:55,314-stream_model_Global_NetCVR_NLL: 0.17740
+2025-10-09 14:15:55,314-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17856
+2025-10-09 14:15:55,314-stream_model_Global_CVR_PCOC: 0.91195
+2025-10-09 14:15:55,314-stream_model_Global_NetCVR_PCOC: 0.87916
+2025-10-09 14:15:55,314-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.23225
+2025-10-09 14:15:55,315-stream_model_Global_CVR_PRAUC: 0.18137
+2025-10-09 14:15:55,315-stream_model_Global_NetCVR_PRAUC: 0.15115
+2025-10-09 14:15:55,315-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14803
+2025-10-09 14:15:55,315-pretrained_model_Global_CVR_AUC: 0.72374
+2025-10-09 14:15:55,315-pretrained_model_Global_NetCVR_AUC: 0.73563
+2025-10-09 14:15:55,315-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73227
+2025-10-09 14:15:55,315-pretrained_model_Global_CVR_NLL: 0.22967
+2025-10-09 14:15:55,315-pretrained_model_Global_NetCVR_NLL: 0.18191
+2025-10-09 14:15:55,315-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18037
+2025-10-09 14:15:55,315-pretrained_model_Global_CVR_PCOC: 0.70058
+2025-10-09 14:15:55,315-pretrained_model_Global_NetCVR_PCOC: 0.75662
+2025-10-09 14:15:55,315-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.94664
+2025-10-09 14:15:55,315-pretrained_model_Global_CVR_PRAUC: 0.17058
+2025-10-09 14:15:55,315-pretrained_model_Global_NetCVR_PRAUC: 0.14244
+2025-10-09 14:15:55,315-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14083
+2025-10-09 14:16:05,243-Epoch 1 Day 4- Mean Loss: 0.70869
+2025-10-09 14:16:05,243-Epoch 1 train day 4: CVR_AUC: 0.75816
+2025-10-09 14:16:05,243-Epoch 1 train day 4: NetCVR_AUC: 0.75854
+2025-10-09 14:16:05,243-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:16:18,688-Model saved at Epoch 1 , Day 4 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:16:18,699-Testing best model with test set!
+2025-10-09 14:16:29,242-stream_model_Global_CVR_AUC: 0.73228
+2025-10-09 14:16:29,242-stream_model_Global_NetCVR_AUC: 0.74247
+2025-10-09 14:16:29,242-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74112
+2025-10-09 14:16:29,242-stream_model_Global_CVR_NLL: 0.22766
+2025-10-09 14:16:29,242-stream_model_Global_NetCVR_NLL: 0.18246
+2025-10-09 14:16:29,242-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18575
+2025-10-09 14:16:29,242-stream_model_Global_CVR_PCOC: 1.01210
+2025-10-09 14:16:29,242-stream_model_Global_NetCVR_PCOC: 1.03610
+2025-10-09 14:16:29,242-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.36457
+2025-10-09 14:16:29,242-stream_model_Global_CVR_PRAUC: 0.17686
+2025-10-09 14:16:29,242-stream_model_Global_NetCVR_PRAUC: 0.14880
+2025-10-09 14:16:29,242-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14695
+2025-10-09 14:16:29,242-pretrained_model_Global_CVR_AUC: 0.71174
+2025-10-09 14:16:29,242-pretrained_model_Global_NetCVR_AUC: 0.72607
+2025-10-09 14:16:29,242-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72269
+2025-10-09 14:16:29,242-pretrained_model_Global_CVR_NLL: 0.23603
+2025-10-09 14:16:29,243-pretrained_model_Global_NetCVR_NLL: 0.18692
+2025-10-09 14:16:29,243-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18581
+2025-10-09 14:16:29,243-pretrained_model_Global_CVR_PCOC: 0.72736
+2025-10-09 14:16:29,243-pretrained_model_Global_NetCVR_PCOC: 0.78528
+2025-10-09 14:16:29,243-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.98066
+2025-10-09 14:16:29,243-pretrained_model_Global_CVR_PRAUC: 0.16581
+2025-10-09 14:16:29,243-pretrained_model_Global_NetCVR_PRAUC: 0.14044
+2025-10-09 14:16:29,243-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13906
+2025-10-09 14:16:38,616-Epoch 1 Day 5- Mean Loss: 0.74078
+2025-10-09 14:16:38,617-Epoch 1 train day 5: CVR_AUC: 0.74463
+2025-10-09 14:16:38,617-Epoch 1 train day 5: NetCVR_AUC: 0.74663
+2025-10-09 14:16:38,617-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:16:51,245-Model saved at Epoch 1 , Day 5 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:16:51,251-Testing best model with test set!
+2025-10-09 14:17:01,148-stream_model_Global_CVR_AUC: 0.73484
+2025-10-09 14:17:01,148-stream_model_Global_NetCVR_AUC: 0.74436
+2025-10-09 14:17:01,148-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74274
+2025-10-09 14:17:01,148-stream_model_Global_CVR_NLL: 0.22322
+2025-10-09 14:17:01,148-stream_model_Global_NetCVR_NLL: 0.17904
+2025-10-09 14:17:01,148-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18180
+2025-10-09 14:17:01,148-stream_model_Global_CVR_PCOC: 0.98297
+2025-10-09 14:17:01,148-stream_model_Global_NetCVR_PCOC: 0.96303
+2025-10-09 14:17:01,148-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.32388
+2025-10-09 14:17:01,148-stream_model_Global_CVR_PRAUC: 0.18157
+2025-10-09 14:17:01,148-stream_model_Global_NetCVR_PRAUC: 0.15375
+2025-10-09 14:17:01,149-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15199
+2025-10-09 14:17:01,149-pretrained_model_Global_CVR_AUC: 0.71117
+2025-10-09 14:17:01,149-pretrained_model_Global_NetCVR_AUC: 0.72472
+2025-10-09 14:17:01,149-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72157
+2025-10-09 14:17:01,149-pretrained_model_Global_CVR_NLL: 0.23172
+2025-10-09 14:17:01,149-pretrained_model_Global_NetCVR_NLL: 0.18394
+2025-10-09 14:17:01,149-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18308
+2025-10-09 14:17:01,149-pretrained_model_Global_CVR_PCOC: 0.75203
+2025-10-09 14:17:01,149-pretrained_model_Global_NetCVR_PCOC: 0.81230
+2025-10-09 14:17:01,149-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.01285
+2025-10-09 14:17:01,149-pretrained_model_Global_CVR_PRAUC: 0.16643
+2025-10-09 14:17:01,149-pretrained_model_Global_NetCVR_PRAUC: 0.14122
+2025-10-09 14:17:01,149-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14006
+2025-10-09 14:17:10,767-Epoch 1 Day 6- Mean Loss: 0.73816
+2025-10-09 14:17:10,768-Epoch 1 train day 6: CVR_AUC: 0.74812
+2025-10-09 14:17:10,768-Epoch 1 train day 6: NetCVR_AUC: 0.75017
+2025-10-09 14:17:10,768-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:17:24,333-Model saved at Epoch 1 , Day 6 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:17:24,340-Testing best model with test set!
+2025-10-09 14:17:32,689-stream_model_Global_CVR_AUC: 0.72167
+2025-10-09 14:17:32,689-stream_model_Global_NetCVR_AUC: 0.73249
+2025-10-09 14:17:32,689-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.73073
+2025-10-09 14:17:32,690-stream_model_Global_CVR_NLL: 0.23061
+2025-10-09 14:17:32,690-stream_model_Global_NetCVR_NLL: 0.18550
+2025-10-09 14:17:32,690-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18752
+2025-10-09 14:17:32,690-stream_model_Global_CVR_PCOC: 0.95799
+2025-10-09 14:17:32,690-stream_model_Global_NetCVR_PCOC: 0.94983
+2025-10-09 14:17:32,690-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.28301
+2025-10-09 14:17:32,690-stream_model_Global_CVR_PRAUC: 0.17580
+2025-10-09 14:17:32,690-stream_model_Global_NetCVR_PRAUC: 0.15117
+2025-10-09 14:17:32,690-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14977
+2025-10-09 14:17:32,690-pretrained_model_Global_CVR_AUC: 0.69721
+2025-10-09 14:17:32,690-pretrained_model_Global_NetCVR_AUC: 0.71240
+2025-10-09 14:17:32,690-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.70940
+2025-10-09 14:17:32,690-pretrained_model_Global_CVR_NLL: 0.23907
+2025-10-09 14:17:32,690-pretrained_model_Global_NetCVR_NLL: 0.19032
+2025-10-09 14:17:32,690-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18940
+2025-10-09 14:17:32,690-pretrained_model_Global_CVR_PCOC: 0.75217
+2025-10-09 14:17:32,690-pretrained_model_Global_NetCVR_PCOC: 0.80803
+2025-10-09 14:17:32,690-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.00736
+2025-10-09 14:17:32,690-pretrained_model_Global_CVR_PRAUC: 0.16047
+2025-10-09 14:17:32,690-pretrained_model_Global_NetCVR_PRAUC: 0.13850
+2025-10-09 14:17:32,690-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13716
+2025-10-09 14:17:40,747-Epoch 1 Day 7- Mean Loss: 0.76053
+2025-10-09 14:17:40,747-Epoch 1 train day 7: CVR_AUC: 0.73537
+2025-10-09 14:17:40,747-Epoch 1 train day 7: NetCVR_AUC: 0.74033
+2025-10-09 14:17:40,747-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:17:53,571-Model saved at Epoch 1 , Day 7 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:17:53,578-Testing best model with test set!
+2025-10-09 14:18:01,974-stream_model_Global_CVR_AUC: 0.72263
+2025-10-09 14:18:01,974-stream_model_Global_NetCVR_AUC: 0.73314
+2025-10-09 14:18:01,974-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.73227
+2025-10-09 14:18:01,974-stream_model_Global_CVR_NLL: 0.23855
+2025-10-09 14:18:01,974-stream_model_Global_NetCVR_NLL: 0.19225
+2025-10-09 14:18:01,974-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19443
+2025-10-09 14:18:01,974-stream_model_Global_CVR_PCOC: 0.97430
+2025-10-09 14:18:01,974-stream_model_Global_NetCVR_PCOC: 0.93477
+2025-10-09 14:18:01,974-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.30637
+2025-10-09 14:18:01,974-stream_model_Global_CVR_PRAUC: 0.18203
+2025-10-09 14:18:01,974-stream_model_Global_NetCVR_PRAUC: 0.15473
+2025-10-09 14:18:01,974-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15397
+2025-10-09 14:18:01,974-pretrained_model_Global_CVR_AUC: 0.69636
+2025-10-09 14:18:01,974-pretrained_model_Global_NetCVR_AUC: 0.71276
+2025-10-09 14:18:01,974-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.70932
+2025-10-09 14:18:01,974-pretrained_model_Global_CVR_NLL: 0.24872
+2025-10-09 14:18:01,975-pretrained_model_Global_NetCVR_NLL: 0.19772
+2025-10-09 14:18:01,975-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.19641
+2025-10-09 14:18:01,975-pretrained_model_Global_CVR_PCOC: 0.72262
+2025-10-09 14:18:01,975-pretrained_model_Global_NetCVR_PCOC: 0.77899
+2025-10-09 14:18:01,975-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.96892
+2025-10-09 14:18:01,975-pretrained_model_Global_CVR_PRAUC: 0.16600
+2025-10-09 14:18:01,975-pretrained_model_Global_NetCVR_PRAUC: 0.14204
+2025-10-09 14:18:01,975-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13986
+2025-10-09 14:18:10,284-Epoch 1 Day 8- Mean Loss: 0.80190
+2025-10-09 14:18:10,285-Epoch 1 train day 8: CVR_AUC: 0.73332
+2025-10-09 14:18:10,285-Epoch 1 train day 8: NetCVR_AUC: 0.73324
+2025-10-09 14:18:10,285-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:18:23,691-Model saved at Epoch 1 , Day 8 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:18:23,698-Testing best model with test set!
+2025-10-09 14:18:33,010-stream_model_Global_CVR_AUC: 0.72613
+2025-10-09 14:18:33,011-stream_model_Global_NetCVR_AUC: 0.74138
+2025-10-09 14:18:33,011-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.73518
+2025-10-09 14:18:33,011-stream_model_Global_CVR_NLL: 0.23948
+2025-10-09 14:18:33,011-stream_model_Global_NetCVR_NLL: 0.19218
+2025-10-09 14:18:33,011-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19918
+2025-10-09 14:18:33,011-stream_model_Global_CVR_PCOC: 1.12350
+2025-10-09 14:18:33,011-stream_model_Global_NetCVR_PCOC: 1.07170
+2025-10-09 14:18:33,011-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.50002
+2025-10-09 14:18:33,011-stream_model_Global_CVR_PRAUC: 0.18367
+2025-10-09 14:18:33,011-stream_model_Global_NetCVR_PRAUC: 0.15907
+2025-10-09 14:18:33,011-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15349
+2025-10-09 14:18:33,011-pretrained_model_Global_CVR_AUC: 0.70080
+2025-10-09 14:18:33,011-pretrained_model_Global_NetCVR_AUC: 0.71949
+2025-10-09 14:18:33,011-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.71493
+2025-10-09 14:18:33,011-pretrained_model_Global_CVR_NLL: 0.24913
+2025-10-09 14:18:33,011-pretrained_model_Global_NetCVR_NLL: 0.19833
+2025-10-09 14:18:33,011-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.19690
+2025-10-09 14:18:33,011-pretrained_model_Global_CVR_PCOC: 0.70530
+2025-10-09 14:18:33,011-pretrained_model_Global_NetCVR_PCOC: 0.75661
+2025-10-09 14:18:33,011-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.94167
+2025-10-09 14:18:33,011-pretrained_model_Global_CVR_PRAUC: 0.16865
+2025-10-09 14:18:33,011-pretrained_model_Global_NetCVR_PRAUC: 0.14429
+2025-10-09 14:18:33,011-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14183
+2025-10-09 14:18:41,746-Epoch 1 Day 9- Mean Loss: 0.82770
+2025-10-09 14:18:41,746-Epoch 1 train day 9: CVR_AUC: 0.73876
+2025-10-09 14:18:41,746-Epoch 1 train day 9: NetCVR_AUC: 0.74056
+2025-10-09 14:18:41,746-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:18:55,735-Model saved at Epoch 1 , Day 9 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:18:55,742-Testing best model with test set!
+2025-10-09 14:18:59,536-stream_model_Global_CVR_AUC: 0.72072
+2025-10-09 14:18:59,537-stream_model_Global_NetCVR_AUC: 0.73100
+2025-10-09 14:18:59,537-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.72749
+2025-10-09 14:18:59,537-stream_model_Global_CVR_NLL: 0.23280
+2025-10-09 14:18:59,537-stream_model_Global_NetCVR_NLL: 0.18642
+2025-10-09 14:18:59,537-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19986
+2025-10-09 14:18:59,537-stream_model_Global_CVR_PCOC: 1.49728
+2025-10-09 14:18:59,537-stream_model_Global_NetCVR_PCOC: 1.50039
+2025-10-09 14:18:59,537-stream_model_Global_NetCVR_PCOC_by_cvr_head: 2.00796
+2025-10-09 14:18:59,537-stream_model_Global_CVR_PRAUC: 0.17807
+2025-10-09 14:18:59,537-stream_model_Global_NetCVR_PRAUC: 0.15316
+2025-10-09 14:18:59,537-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15016
+2025-10-09 14:18:59,537-pretrained_model_Global_CVR_AUC: 0.69828
+2025-10-09 14:18:59,537-pretrained_model_Global_NetCVR_AUC: 0.71382
+2025-10-09 14:18:59,537-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.70994
+2025-10-09 14:18:59,537-pretrained_model_Global_CVR_NLL: 0.23192
+2025-10-09 14:18:59,537-pretrained_model_Global_NetCVR_NLL: 0.18457
+2025-10-09 14:18:59,537-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18423
+2025-10-09 14:18:59,537-pretrained_model_Global_CVR_PCOC: 0.77815
+2025-10-09 14:18:59,537-pretrained_model_Global_NetCVR_PCOC: 0.83515
+2025-10-09 14:18:59,537-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.04355
+2025-10-09 14:18:59,537-pretrained_model_Global_CVR_PRAUC: 0.16508
+2025-10-09 14:18:59,537-pretrained_model_Global_NetCVR_PRAUC: 0.14005
+2025-10-09 14:18:59,537-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14110
+2025-10-09 14:19:04,326-Epoch 1 Day 10- Mean Loss: 0.79669
+2025-10-09 14:19:04,326-Epoch 1 train day 10: CVR_AUC: 0.73659
+2025-10-09 14:19:04,326-Epoch 1 train day 10: NetCVR_AUC: 0.73940
+2025-10-09 14:19:04,326-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:19:18,843-Model saved at Epoch 1 , Day 10 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:19:18,849-Testing best model with test set!
+2025-10-09 14:19:20,802-stream_model_Global_CVR_AUC: 0.74027
+2025-10-09 14:19:20,802-stream_model_Global_NetCVR_AUC: 0.75115
+2025-10-09 14:19:20,803-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74953
+2025-10-09 14:19:20,803-stream_model_Global_CVR_NLL: 0.19865
+2025-10-09 14:19:20,803-stream_model_Global_NetCVR_NLL: 0.16037
+2025-10-09 14:19:20,803-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16259
+2025-10-09 14:19:20,803-stream_model_Global_CVR_PCOC: 0.98531
+2025-10-09 14:19:20,803-stream_model_Global_NetCVR_PCOC: 0.99627
+2025-10-09 14:19:20,803-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.31072
+2025-10-09 14:19:20,803-stream_model_Global_CVR_PRAUC: 0.15147
+2025-10-09 14:19:20,803-stream_model_Global_NetCVR_PRAUC: 0.12786
+2025-10-09 14:19:20,803-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.12371
+2025-10-09 14:19:20,803-pretrained_model_Global_CVR_AUC: 0.71417
+2025-10-09 14:19:20,803-pretrained_model_Global_NetCVR_AUC: 0.73173
+2025-10-09 14:19:20,803-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72869
+2025-10-09 14:19:20,803-pretrained_model_Global_CVR_NLL: 0.20488
+2025-10-09 14:19:20,803-pretrained_model_Global_NetCVR_NLL: 0.16401
+2025-10-09 14:19:20,803-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16472
+2025-10-09 14:19:20,803-pretrained_model_Global_CVR_PCOC: 0.87871
+2025-10-09 14:19:20,803-pretrained_model_Global_NetCVR_PCOC: 0.93801
+2025-10-09 14:19:20,803-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.16892
+2025-10-09 14:19:20,803-pretrained_model_Global_CVR_PRAUC: 0.14096
+2025-10-09 14:19:20,803-pretrained_model_Global_NetCVR_PRAUC: 0.11992
+2025-10-09 14:19:20,803-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.11885
+2025-10-09 14:19:22,944-Epoch 1 Day 11- Mean Loss: 0.70306
+2025-10-09 14:19:22,945-Epoch 1 train day 11: CVR_AUC: 0.74670
+2025-10-09 14:19:22,945-Epoch 1 train day 11: NetCVR_AUC: 0.75188
+2025-10-09 14:19:22,945-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:19:36,607-Model saved at Epoch 1 , Day 11 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:19:36,613-Testing best model with test set!
+2025-10-09 14:19:40,066-stream_model_Global_CVR_AUC: 0.73854
+2025-10-09 14:19:40,066-stream_model_Global_NetCVR_AUC: 0.74666
+2025-10-09 14:19:40,066-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74494
+2025-10-09 14:19:40,066-stream_model_Global_CVR_NLL: 0.20030
+2025-10-09 14:19:40,066-stream_model_Global_NetCVR_NLL: 0.15853
+2025-10-09 14:19:40,066-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16123
+2025-10-09 14:19:40,066-stream_model_Global_CVR_PCOC: 0.99203
+2025-10-09 14:19:40,066-stream_model_Global_NetCVR_PCOC: 1.03909
+2025-10-09 14:19:40,066-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.35831
+2025-10-09 14:19:40,066-stream_model_Global_CVR_PRAUC: 0.16139
+2025-10-09 14:19:40,066-stream_model_Global_NetCVR_PRAUC: 0.13391
+2025-10-09 14:19:40,066-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13164
+2025-10-09 14:19:40,066-pretrained_model_Global_CVR_AUC: 0.72165
+2025-10-09 14:19:40,066-pretrained_model_Global_NetCVR_AUC: 0.73454
+2025-10-09 14:19:40,066-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73216
+2025-10-09 14:19:40,066-pretrained_model_Global_CVR_NLL: 0.20448
+2025-10-09 14:19:40,067-pretrained_model_Global_NetCVR_NLL: 0.16072
+2025-10-09 14:19:40,067-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16183
+2025-10-09 14:19:40,067-pretrained_model_Global_CVR_PCOC: 0.88764
+2025-10-09 14:19:40,067-pretrained_model_Global_NetCVR_PCOC: 0.96873
+2025-10-09 14:19:40,067-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.21538
+2025-10-09 14:19:40,067-pretrained_model_Global_CVR_PRAUC: 0.15213
+2025-10-09 14:19:40,067-pretrained_model_Global_NetCVR_PRAUC: 0.12744
+2025-10-09 14:19:40,067-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.12767
+2025-10-09 14:19:43,294-Epoch 1 Day 12- Mean Loss: 0.67669
+2025-10-09 14:19:43,294-Epoch 1 train day 12: CVR_AUC: 0.74125
+2025-10-09 14:19:43,294-Epoch 1 train day 12: NetCVR_AUC: 0.74548
+2025-10-09 14:19:43,294-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:19:55,991-Model saved at Epoch 1 , Day 12 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:19:55,998-Testing best model with test set!
+2025-10-09 14:20:04,373-stream_model_Global_CVR_AUC: 0.74375
+2025-10-09 14:20:04,374-stream_model_Global_NetCVR_AUC: 0.75095
+2025-10-09 14:20:04,374-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74936
+2025-10-09 14:20:04,374-stream_model_Global_CVR_NLL: 0.21500
+2025-10-09 14:20:04,374-stream_model_Global_NetCVR_NLL: 0.17296
+2025-10-09 14:20:04,374-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16905
+2025-10-09 14:20:04,374-stream_model_Global_CVR_PCOC: 0.67655
+2025-10-09 14:20:04,374-stream_model_Global_NetCVR_PCOC: 0.64456
+2025-10-09 14:20:04,374-stream_model_Global_NetCVR_PCOC_by_cvr_head: 0.91236
+2025-10-09 14:20:04,374-stream_model_Global_CVR_PRAUC: 0.17445
+2025-10-09 14:20:04,374-stream_model_Global_NetCVR_PRAUC: 0.14538
+2025-10-09 14:20:04,374-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14461
+2025-10-09 14:20:04,374-pretrained_model_Global_CVR_AUC: 0.72318
+2025-10-09 14:20:04,374-pretrained_model_Global_NetCVR_AUC: 0.73467
+2025-10-09 14:20:04,374-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73190
+2025-10-09 14:20:04,374-pretrained_model_Global_CVR_NLL: 0.21724
+2025-10-09 14:20:04,374-pretrained_model_Global_NetCVR_NLL: 0.17250
+2025-10-09 14:20:04,374-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17185
+2025-10-09 14:20:04,374-pretrained_model_Global_CVR_PCOC: 0.76118
+2025-10-09 14:20:04,374-pretrained_model_Global_NetCVR_PCOC: 0.82086
+2025-10-09 14:20:04,374-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.02649
+2025-10-09 14:20:04,374-pretrained_model_Global_CVR_PRAUC: 0.16228
+2025-10-09 14:20:04,374-pretrained_model_Global_NetCVR_PRAUC: 0.13660
+2025-10-09 14:20:04,374-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13550
+2025-10-09 14:20:11,665-Epoch 1 Day 13- Mean Loss: 0.66994
+2025-10-09 14:20:11,666-Epoch 1 train day 13: CVR_AUC: 0.75860
+2025-10-09 14:20:11,666-Epoch 1 train day 13: NetCVR_AUC: 0.76002
+2025-10-09 14:20:11,666-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:20:24,400-Model saved at Epoch 1 , Day 13 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:20:24,406-Testing best model with test set!
+2025-10-09 14:20:34,335-stream_model_Global_CVR_AUC: 0.75086
+2025-10-09 14:20:34,335-stream_model_Global_NetCVR_AUC: 0.75789
+2025-10-09 14:20:34,335-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75670
+2025-10-09 14:20:34,335-stream_model_Global_CVR_NLL: 0.21074
+2025-10-09 14:20:34,335-stream_model_Global_NetCVR_NLL: 0.16862
+2025-10-09 14:20:34,336-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16852
+2025-10-09 14:20:34,336-stream_model_Global_CVR_PCOC: 0.84849
+2025-10-09 14:20:34,336-stream_model_Global_NetCVR_PCOC: 0.83402
+2025-10-09 14:20:34,336-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.14857
+2025-10-09 14:20:34,336-stream_model_Global_CVR_PRAUC: 0.17850
+2025-10-09 14:20:34,336-stream_model_Global_NetCVR_PRAUC: 0.14815
+2025-10-09 14:20:34,336-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14599
+2025-10-09 14:20:34,336-pretrained_model_Global_CVR_AUC: 0.72420
+2025-10-09 14:20:34,336-pretrained_model_Global_NetCVR_AUC: 0.73525
+2025-10-09 14:20:34,336-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73300
+2025-10-09 14:20:34,336-pretrained_model_Global_CVR_NLL: 0.21848
+2025-10-09 14:20:34,336-pretrained_model_Global_NetCVR_NLL: 0.17287
+2025-10-09 14:20:34,336-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17219
+2025-10-09 14:20:34,336-pretrained_model_Global_CVR_PCOC: 0.75779
+2025-10-09 14:20:34,336-pretrained_model_Global_NetCVR_PCOC: 0.82116
+2025-10-09 14:20:34,336-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.02578
+2025-10-09 14:20:34,336-pretrained_model_Global_CVR_PRAUC: 0.16054
+2025-10-09 14:20:34,336-pretrained_model_Global_NetCVR_PRAUC: 0.13450
+2025-10-09 14:20:34,336-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13321
+2025-10-09 14:20:43,773-Epoch 1 Day 14- Mean Loss: 0.69351
+2025-10-09 14:20:43,774-Epoch 1 train day 14: CVR_AUC: 0.76587
+2025-10-09 14:20:43,774-Epoch 1 train day 14: NetCVR_AUC: 0.76527
+2025-10-09 14:20:43,774-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:20:56,515-Model saved at Epoch 1 , Day 14 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:20:56,521-Testing best model with test set!
+2025-10-09 14:21:06,555-stream_model_Global_CVR_AUC: 0.74435
+2025-10-09 14:21:06,555-stream_model_Global_NetCVR_AUC: 0.75287
+2025-10-09 14:21:06,555-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75138
+2025-10-09 14:21:06,555-stream_model_Global_CVR_NLL: 0.21756
+2025-10-09 14:21:06,555-stream_model_Global_NetCVR_NLL: 0.17535
+2025-10-09 14:21:06,555-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17697
+2025-10-09 14:21:06,555-stream_model_Global_CVR_PCOC: 0.94119
+2025-10-09 14:21:06,555-stream_model_Global_NetCVR_PCOC: 0.91845
+2025-10-09 14:21:06,555-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.26077
+2025-10-09 14:21:06,556-stream_model_Global_CVR_PRAUC: 0.18221
+2025-10-09 14:21:06,556-stream_model_Global_NetCVR_PRAUC: 0.15319
+2025-10-09 14:21:06,556-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15125
+2025-10-09 14:21:06,556-pretrained_model_Global_CVR_AUC: 0.72032
+2025-10-09 14:21:06,556-pretrained_model_Global_NetCVR_AUC: 0.73457
+2025-10-09 14:21:06,556-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73171
+2025-10-09 14:21:06,556-pretrained_model_Global_CVR_NLL: 0.22492
+2025-10-09 14:21:06,556-pretrained_model_Global_NetCVR_NLL: 0.17915
+2025-10-09 14:21:06,556-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17835
+2025-10-09 14:21:06,556-pretrained_model_Global_CVR_PCOC: 0.75375
+2025-10-09 14:21:06,556-pretrained_model_Global_NetCVR_PCOC: 0.80717
+2025-10-09 14:21:06,556-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.00969
+2025-10-09 14:21:06,556-pretrained_model_Global_CVR_PRAUC: 0.16972
+2025-10-09 14:21:06,556-pretrained_model_Global_NetCVR_PRAUC: 0.14582
+2025-10-09 14:21:06,556-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14359
+2025-10-09 14:21:16,458-Epoch 1 Day 15- Mean Loss: 0.71487
+2025-10-09 14:21:16,458-Epoch 1 train day 15: CVR_AUC: 0.75537
+2025-10-09 14:21:16,459-Epoch 1 train day 15: NetCVR_AUC: 0.75594
+2025-10-09 14:21:16,459-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:21:29,725-Model saved at Epoch 1 , Day 15 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:21:29,732-Testing best model with test set!
+2025-10-09 14:21:38,907-stream_model_Global_CVR_AUC: 0.74467
+2025-10-09 14:21:38,907-stream_model_Global_NetCVR_AUC: 0.75405
+2025-10-09 14:21:38,907-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75227
+2025-10-09 14:21:38,907-stream_model_Global_CVR_NLL: 0.21805
+2025-10-09 14:21:38,908-stream_model_Global_NetCVR_NLL: 0.17560
+2025-10-09 14:21:38,908-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18017
+2025-10-09 14:21:38,908-stream_model_Global_CVR_PCOC: 1.07742
+2025-10-09 14:21:38,908-stream_model_Global_NetCVR_PCOC: 1.03060
+2025-10-09 14:21:38,908-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.43874
+2025-10-09 14:21:38,908-stream_model_Global_CVR_PRAUC: 0.18952
+2025-10-09 14:21:38,908-stream_model_Global_NetCVR_PRAUC: 0.16238
+2025-10-09 14:21:38,908-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15994
+2025-10-09 14:21:38,908-pretrained_model_Global_CVR_AUC: 0.71698
+2025-10-09 14:21:38,908-pretrained_model_Global_NetCVR_AUC: 0.73136
+2025-10-09 14:21:38,908-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72846
+2025-10-09 14:21:38,908-pretrained_model_Global_CVR_NLL: 0.22633
+2025-10-09 14:21:38,908-pretrained_model_Global_NetCVR_NLL: 0.18070
+2025-10-09 14:21:38,908-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18012
+2025-10-09 14:21:38,908-pretrained_model_Global_CVR_PCOC: 0.77264
+2025-10-09 14:21:38,908-pretrained_model_Global_NetCVR_PCOC: 0.82687
+2025-10-09 14:21:38,908-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.03176
+2025-10-09 14:21:38,908-pretrained_model_Global_CVR_PRAUC: 0.17262
+2025-10-09 14:21:38,908-pretrained_model_Global_NetCVR_PRAUC: 0.14828
+2025-10-09 14:21:38,908-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14690
+2025-10-09 14:21:47,935-Epoch 1 Day 16- Mean Loss: 0.72557
+2025-10-09 14:21:47,935-Epoch 1 train day 16: CVR_AUC: 0.75585
+2025-10-09 14:21:47,935-Epoch 1 train day 16: NetCVR_AUC: 0.75745
+2025-10-09 14:21:47,935-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:22:00,746-Model saved at Epoch 1 , Day 16 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:22:00,753-Testing best model with test set!
+2025-10-09 14:22:08,587-stream_model_Global_CVR_AUC: 0.73136
+2025-10-09 14:22:08,587-stream_model_Global_NetCVR_AUC: 0.73956
+2025-10-09 14:22:08,587-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.73842
+2025-10-09 14:22:08,587-stream_model_Global_CVR_NLL: 0.22122
+2025-10-09 14:22:08,587-stream_model_Global_NetCVR_NLL: 0.17773
+2025-10-09 14:22:08,587-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18002
+2025-10-09 14:22:08,587-stream_model_Global_CVR_PCOC: 0.99020
+2025-10-09 14:22:08,587-stream_model_Global_NetCVR_PCOC: 0.94008
+2025-10-09 14:22:08,587-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.33242
+2025-10-09 14:22:08,587-stream_model_Global_CVR_PRAUC: 0.17803
+2025-10-09 14:22:08,587-stream_model_Global_NetCVR_PRAUC: 0.15046
+2025-10-09 14:22:08,587-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14995
+2025-10-09 14:22:08,587-pretrained_model_Global_CVR_AUC: 0.70706
+2025-10-09 14:22:08,587-pretrained_model_Global_NetCVR_AUC: 0.72062
+2025-10-09 14:22:08,588-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.71785
+2025-10-09 14:22:08,588-pretrained_model_Global_CVR_NLL: 0.22826
+2025-10-09 14:22:08,588-pretrained_model_Global_NetCVR_NLL: 0.18139
+2025-10-09 14:22:08,588-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18109
+2025-10-09 14:22:08,588-pretrained_model_Global_CVR_PCOC: 0.79063
+2025-10-09 14:22:08,588-pretrained_model_Global_NetCVR_PCOC: 0.85332
+2025-10-09 14:22:08,588-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.06387
+2025-10-09 14:22:08,588-pretrained_model_Global_CVR_PRAUC: 0.16152
+2025-10-09 14:22:08,588-pretrained_model_Global_NetCVR_PRAUC: 0.13691
+2025-10-09 14:22:08,588-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13602
+2025-10-09 14:22:16,036-Epoch 1 Day 17- Mean Loss: 0.74014
+2025-10-09 14:22:16,036-Epoch 1 train day 17: CVR_AUC: 0.74300
+2025-10-09 14:22:16,036-Epoch 1 train day 17: NetCVR_AUC: 0.74343
+2025-10-09 14:22:16,037-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:22:28,723-Model saved at Epoch 1 , Day 17 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:22:28,735-Testing best model with test set!
+2025-10-09 14:22:37,210-stream_model_Global_CVR_AUC: 0.72527
+2025-10-09 14:22:37,211-stream_model_Global_NetCVR_AUC: 0.73620
+2025-10-09 14:22:37,211-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.73489
+2025-10-09 14:22:37,211-stream_model_Global_CVR_NLL: 0.22913
+2025-10-09 14:22:37,211-stream_model_Global_NetCVR_NLL: 0.18499
+2025-10-09 14:22:37,211-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18657
+2025-10-09 14:22:37,211-stream_model_Global_CVR_PCOC: 0.95936
+2025-10-09 14:22:37,211-stream_model_Global_NetCVR_PCOC: 0.88237
+2025-10-09 14:22:37,211-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.28050
+2025-10-09 14:22:37,211-stream_model_Global_CVR_PRAUC: 0.18622
+2025-10-09 14:22:37,211-stream_model_Global_NetCVR_PRAUC: 0.16020
+2025-10-09 14:22:37,211-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15851
+2025-10-09 14:22:37,211-pretrained_model_Global_CVR_AUC: 0.69994
+2025-10-09 14:22:37,211-pretrained_model_Global_NetCVR_AUC: 0.71677
+2025-10-09 14:22:37,211-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.71381
+2025-10-09 14:22:37,211-pretrained_model_Global_CVR_NLL: 0.23691
+2025-10-09 14:22:37,211-pretrained_model_Global_NetCVR_NLL: 0.18890
+2025-10-09 14:22:37,211-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18836
+2025-10-09 14:22:37,211-pretrained_model_Global_CVR_PCOC: 0.77584
+2025-10-09 14:22:37,211-pretrained_model_Global_NetCVR_PCOC: 0.83396
+2025-10-09 14:22:37,211-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.03556
+2025-10-09 14:22:37,211-pretrained_model_Global_CVR_PRAUC: 0.16732
+2025-10-09 14:22:37,212-pretrained_model_Global_NetCVR_PRAUC: 0.14474
+2025-10-09 14:22:37,212-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14258
+2025-10-09 14:22:45,395-Epoch 1 Day 18- Mean Loss: 0.80275
+2025-10-09 14:22:45,395-Epoch 1 train day 18: CVR_AUC: 0.72953
+2025-10-09 14:22:45,395-Epoch 1 train day 18: NetCVR_AUC: 0.72929
+2025-10-09 14:22:45,395-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:22:58,228-Model saved at Epoch 1 , Day 18 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:22:58,235-Testing best model with test set!
+2025-10-09 14:23:06,552-stream_model_Global_CVR_AUC: 0.72339
+2025-10-09 14:23:06,552-stream_model_Global_NetCVR_AUC: 0.73407
+2025-10-09 14:23:06,552-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.73019
+2025-10-09 14:23:06,552-stream_model_Global_CVR_NLL: 0.23246
+2025-10-09 14:23:06,552-stream_model_Global_NetCVR_NLL: 0.18718
+2025-10-09 14:23:06,552-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19525
+2025-10-09 14:23:06,552-stream_model_Global_CVR_PCOC: 1.20606
+2025-10-09 14:23:06,552-stream_model_Global_NetCVR_PCOC: 1.13629
+2025-10-09 14:23:06,552-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.60335
+2025-10-09 14:23:06,552-stream_model_Global_CVR_PRAUC: 0.18351
+2025-10-09 14:23:06,552-stream_model_Global_NetCVR_PRAUC: 0.15680
+2025-10-09 14:23:06,552-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15387
+2025-10-09 14:23:06,552-pretrained_model_Global_CVR_AUC: 0.69497
+2025-10-09 14:23:06,552-pretrained_model_Global_NetCVR_AUC: 0.71020
+2025-10-09 14:23:06,553-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.70648
+2025-10-09 14:23:06,553-pretrained_model_Global_CVR_NLL: 0.23955
+2025-10-09 14:23:06,553-pretrained_model_Global_NetCVR_NLL: 0.19195
+2025-10-09 14:23:06,553-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.19144
+2025-10-09 14:23:06,553-pretrained_model_Global_CVR_PCOC: 0.77455
+2025-10-09 14:23:06,553-pretrained_model_Global_NetCVR_PCOC: 0.83158
+2025-10-09 14:23:06,553-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.02970
+2025-10-09 14:23:06,553-pretrained_model_Global_CVR_PRAUC: 0.16410
+2025-10-09 14:23:06,553-pretrained_model_Global_NetCVR_PRAUC: 0.14011
+2025-10-09 14:23:06,553-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13849
+2025-10-09 14:23:15,008-Epoch 1 Day 19- Mean Loss: 0.81696
+2025-10-09 14:23:15,008-Epoch 1 train day 19: CVR_AUC: 0.73358
+2025-10-09 14:23:15,008-Epoch 1 train day 19: NetCVR_AUC: 0.73281
+2025-10-09 14:23:15,008-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:23:27,829-Model saved at Epoch 1 , Day 19 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:23:27,842-Testing best model with test set!
+2025-10-09 14:23:31,777-stream_model_Global_CVR_AUC: 0.72355
+2025-10-09 14:23:31,778-stream_model_Global_NetCVR_AUC: 0.73061
+2025-10-09 14:23:31,778-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.72582
+2025-10-09 14:23:31,778-stream_model_Global_CVR_NLL: 0.22186
+2025-10-09 14:23:31,778-stream_model_Global_NetCVR_NLL: 0.17831
+2025-10-09 14:23:31,778-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19068
+2025-10-09 14:23:31,778-stream_model_Global_CVR_PCOC: 1.47458
+2025-10-09 14:23:31,778-stream_model_Global_NetCVR_PCOC: 1.47671
+2025-10-09 14:23:31,778-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.96909
+2025-10-09 14:23:31,778-stream_model_Global_CVR_PRAUC: 0.17043
+2025-10-09 14:23:31,778-stream_model_Global_NetCVR_PRAUC: 0.14702
+2025-10-09 14:23:31,778-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14158
+2025-10-09 14:23:31,778-pretrained_model_Global_CVR_AUC: 0.70327
+2025-10-09 14:23:31,778-pretrained_model_Global_NetCVR_AUC: 0.71565
+2025-10-09 14:23:31,778-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.71405
+2025-10-09 14:23:31,778-pretrained_model_Global_CVR_NLL: 0.22011
+2025-10-09 14:23:31,778-pretrained_model_Global_NetCVR_NLL: 0.17596
+2025-10-09 14:23:31,778-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17589
+2025-10-09 14:23:31,778-pretrained_model_Global_CVR_PCOC: 0.81521
+2025-10-09 14:23:31,778-pretrained_model_Global_NetCVR_PCOC: 0.87312
+2025-10-09 14:23:31,778-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.08860
+2025-10-09 14:23:31,778-pretrained_model_Global_CVR_PRAUC: 0.15859
+2025-10-09 14:23:31,778-pretrained_model_Global_NetCVR_PRAUC: 0.13691
+2025-10-09 14:23:31,778-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13671
+2025-10-09 14:23:36,192-Epoch 1 Day 20- Mean Loss: 0.79568
+2025-10-09 14:23:36,192-Epoch 1 train day 20: CVR_AUC: 0.72924
+2025-10-09 14:23:36,192-Epoch 1 train day 20: NetCVR_AUC: 0.72810
+2025-10-09 14:23:36,192-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:23:48,817-Model saved at Epoch 1 , Day 20 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:23:48,823-Testing best model with test set!
+2025-10-09 14:23:50,772-stream_model_Global_CVR_AUC: 0.72233
+2025-10-09 14:23:50,773-stream_model_Global_NetCVR_AUC: 0.73146
+2025-10-09 14:23:50,773-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.72737
+2025-10-09 14:23:50,773-stream_model_Global_CVR_NLL: 0.23158
+2025-10-09 14:23:50,773-stream_model_Global_NetCVR_NLL: 0.18383
+2025-10-09 14:23:50,773-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18421
+2025-10-09 14:23:50,773-stream_model_Global_CVR_PCOC: 0.81050
+2025-10-09 14:23:50,773-stream_model_Global_NetCVR_PCOC: 0.86220
+2025-10-09 14:23:50,773-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.10481
+2025-10-09 14:23:50,773-stream_model_Global_CVR_PRAUC: 0.17517
+2025-10-09 14:23:50,773-stream_model_Global_NetCVR_PRAUC: 0.14129
+2025-10-09 14:23:50,773-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13709
+2025-10-09 14:23:50,773-pretrained_model_Global_CVR_AUC: 0.70089
+2025-10-09 14:23:50,773-pretrained_model_Global_NetCVR_AUC: 0.71646
+2025-10-09 14:23:50,773-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.71320
+2025-10-09 14:23:50,773-pretrained_model_Global_CVR_NLL: 0.23645
+2025-10-09 14:23:50,773-pretrained_model_Global_NetCVR_NLL: 0.18650
+2025-10-09 14:23:50,773-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18670
+2025-10-09 14:23:50,773-pretrained_model_Global_CVR_PCOC: 0.81317
+2025-10-09 14:23:50,773-pretrained_model_Global_NetCVR_PCOC: 0.88821
+2025-10-09 14:23:50,773-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.10845
+2025-10-09 14:23:50,773-pretrained_model_Global_CVR_PRAUC: 0.16045
+2025-10-09 14:23:50,773-pretrained_model_Global_NetCVR_PRAUC: 0.12986
+2025-10-09 14:23:50,773-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.12927
+2025-10-09 14:23:52,942-Epoch 1 Day 21- Mean Loss: 0.77420
+2025-10-09 14:23:52,942-Epoch 1 train day 21: CVR_AUC: 0.72824
+2025-10-09 14:23:52,942-Epoch 1 train day 21: NetCVR_AUC: 0.72742
+2025-10-09 14:23:52,942-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:24:05,657-Model saved at Epoch 1 , Day 21 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:24:05,664-Testing best model with test set!
+2025-10-09 14:24:09,145-stream_model_Global_CVR_AUC: 0.72868
+2025-10-09 14:24:09,145-stream_model_Global_NetCVR_AUC: 0.73538
+2025-10-09 14:24:09,145-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.73126
+2025-10-09 14:24:09,145-stream_model_Global_CVR_NLL: 0.21235
+2025-10-09 14:24:09,145-stream_model_Global_NetCVR_NLL: 0.16878
+2025-10-09 14:24:09,145-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17078
+2025-10-09 14:24:09,145-stream_model_Global_CVR_PCOC: 0.91729
+2025-10-09 14:24:09,145-stream_model_Global_NetCVR_PCOC: 0.97519
+2025-10-09 14:24:09,145-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.24999
+2025-10-09 14:24:09,145-stream_model_Global_CVR_PRAUC: 0.16802
+2025-10-09 14:24:09,145-stream_model_Global_NetCVR_PRAUC: 0.14131
+2025-10-09 14:24:09,145-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13839
+2025-10-09 14:24:09,145-pretrained_model_Global_CVR_AUC: 0.70993
+2025-10-09 14:24:09,145-pretrained_model_Global_NetCVR_AUC: 0.72397
+2025-10-09 14:24:09,145-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72067
+2025-10-09 14:24:09,145-pretrained_model_Global_CVR_NLL: 0.21728
+2025-10-09 14:24:09,145-pretrained_model_Global_NetCVR_NLL: 0.17119
+2025-10-09 14:24:09,145-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17186
+2025-10-09 14:24:09,145-pretrained_model_Global_CVR_PCOC: 0.84704
+2025-10-09 14:24:09,146-pretrained_model_Global_NetCVR_PCOC: 0.92337
+2025-10-09 14:24:09,146-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.15425
+2025-10-09 14:24:09,146-pretrained_model_Global_CVR_PRAUC: 0.15568
+2025-10-09 14:24:09,146-pretrained_model_Global_NetCVR_PRAUC: 0.13202
+2025-10-09 14:24:09,146-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13136
+2025-10-09 14:24:12,327-Epoch 1 Day 22- Mean Loss: 0.72230
+2025-10-09 14:24:12,327-Epoch 1 train day 22: CVR_AUC: 0.72376
+2025-10-09 14:24:12,327-Epoch 1 train day 22: NetCVR_AUC: 0.72447
+2025-10-09 14:24:12,327-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:24:25,333-Model saved at Epoch 1 , Day 22 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:24:25,340-Testing best model with test set!
+2025-10-09 14:24:33,681-stream_model_Global_CVR_AUC: 0.74942
+2025-10-09 14:24:33,681-stream_model_Global_NetCVR_AUC: 0.75875
+2025-10-09 14:24:33,681-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75466
+2025-10-09 14:24:33,681-stream_model_Global_CVR_NLL: 0.22083
+2025-10-09 14:24:33,681-stream_model_Global_NetCVR_NLL: 0.17808
+2025-10-09 14:24:33,681-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17524
+2025-10-09 14:24:33,681-stream_model_Global_CVR_PCOC: 0.69662
+2025-10-09 14:24:33,681-stream_model_Global_NetCVR_PCOC: 0.67265
+2025-10-09 14:24:33,681-stream_model_Global_NetCVR_PCOC_by_cvr_head: 0.93418
+2025-10-09 14:24:33,681-stream_model_Global_CVR_PRAUC: 0.18530
+2025-10-09 14:24:33,682-stream_model_Global_NetCVR_PRAUC: 0.15570
+2025-10-09 14:24:33,682-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15354
+2025-10-09 14:24:33,682-pretrained_model_Global_CVR_AUC: 0.72624
+2025-10-09 14:24:33,682-pretrained_model_Global_NetCVR_AUC: 0.73908
+2025-10-09 14:24:33,682-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73628
+2025-10-09 14:24:33,682-pretrained_model_Global_CVR_NLL: 0.22438
+2025-10-09 14:24:33,682-pretrained_model_Global_NetCVR_NLL: 0.17893
+2025-10-09 14:24:33,682-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17803
+2025-10-09 14:24:33,682-pretrained_model_Global_CVR_PCOC: 0.74777
+2025-10-09 14:24:33,682-pretrained_model_Global_NetCVR_PCOC: 0.80207
+2025-10-09 14:24:33,682-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.00278
+2025-10-09 14:24:33,682-pretrained_model_Global_CVR_PRAUC: 0.17054
+2025-10-09 14:24:33,682-pretrained_model_Global_NetCVR_PRAUC: 0.14310
+2025-10-09 14:24:33,682-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14167
+2025-10-09 14:24:41,115-Epoch 1 Day 23- Mean Loss: 0.67980
+2025-10-09 14:24:41,115-Epoch 1 train day 23: CVR_AUC: 0.75708
+2025-10-09 14:24:41,115-Epoch 1 train day 23: NetCVR_AUC: 0.75910
+2025-10-09 14:24:41,115-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:24:53,997-Model saved at Epoch 1 , Day 23 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:24:54,003-Testing best model with test set!
+2025-10-09 14:25:03,833-stream_model_Global_CVR_AUC: 0.76146
+2025-10-09 14:25:03,833-stream_model_Global_NetCVR_AUC: 0.76975
+2025-10-09 14:25:03,833-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76860
+2025-10-09 14:25:03,833-stream_model_Global_CVR_NLL: 0.21253
+2025-10-09 14:25:03,833-stream_model_Global_NetCVR_NLL: 0.17183
+2025-10-09 14:25:03,833-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17352
+2025-10-09 14:25:03,833-stream_model_Global_CVR_PCOC: 0.94507
+2025-10-09 14:25:03,833-stream_model_Global_NetCVR_PCOC: 0.92575
+2025-10-09 14:25:03,833-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.26116
+2025-10-09 14:25:03,834-stream_model_Global_CVR_PRAUC: 0.19454
+2025-10-09 14:25:03,834-stream_model_Global_NetCVR_PRAUC: 0.16405
+2025-10-09 14:25:03,834-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16236
+2025-10-09 14:25:03,834-pretrained_model_Global_CVR_AUC: 0.73205
+2025-10-09 14:25:03,834-pretrained_model_Global_NetCVR_AUC: 0.74310
+2025-10-09 14:25:03,834-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74140
+2025-10-09 14:25:03,834-pretrained_model_Global_CVR_NLL: 0.22169
+2025-10-09 14:25:03,834-pretrained_model_Global_NetCVR_NLL: 0.17759
+2025-10-09 14:25:03,834-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17636
+2025-10-09 14:25:03,834-pretrained_model_Global_CVR_PCOC: 0.74023
+2025-10-09 14:25:03,834-pretrained_model_Global_NetCVR_PCOC: 0.79107
+2025-10-09 14:25:03,834-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.98781
+2025-10-09 14:25:03,834-pretrained_model_Global_CVR_PRAUC: 0.17283
+2025-10-09 14:25:03,834-pretrained_model_Global_NetCVR_PRAUC: 0.14641
+2025-10-09 14:25:03,834-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14541
+2025-10-09 14:25:13,251-Epoch 1 Day 24- Mean Loss: 0.67792
+2025-10-09 14:25:13,251-Epoch 1 train day 24: CVR_AUC: 0.77471
+2025-10-09 14:25:13,251-Epoch 1 train day 24: NetCVR_AUC: 0.77327
+2025-10-09 14:25:13,251-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:25:27,075-Model saved at Epoch 1 , Day 24 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:25:27,088-Testing best model with test set!
+2025-10-09 14:25:36,455-stream_model_Global_CVR_AUC: 0.75525
+2025-10-09 14:25:36,456-stream_model_Global_NetCVR_AUC: 0.76334
+2025-10-09 14:25:36,456-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76180
+2025-10-09 14:25:36,456-stream_model_Global_CVR_NLL: 0.22600
+2025-10-09 14:25:36,456-stream_model_Global_NetCVR_NLL: 0.18331
+2025-10-09 14:25:36,456-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18337
+2025-10-09 14:25:36,456-stream_model_Global_CVR_PCOC: 0.84521
+2025-10-09 14:25:36,456-stream_model_Global_NetCVR_PCOC: 0.86029
+2025-10-09 14:25:36,456-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.12275
+2025-10-09 14:25:36,456-stream_model_Global_CVR_PRAUC: 0.20501
+2025-10-09 14:25:36,456-stream_model_Global_NetCVR_PRAUC: 0.17585
+2025-10-09 14:25:36,456-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17357
+2025-10-09 14:25:36,456-pretrained_model_Global_CVR_AUC: 0.72554
+2025-10-09 14:25:36,456-pretrained_model_Global_NetCVR_AUC: 0.73709
+2025-10-09 14:25:36,456-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73425
+2025-10-09 14:25:36,456-pretrained_model_Global_CVR_NLL: 0.23611
+2025-10-09 14:25:36,456-pretrained_model_Global_NetCVR_NLL: 0.18976
+2025-10-09 14:25:36,456-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18835
+2025-10-09 14:25:36,456-pretrained_model_Global_CVR_PCOC: 0.72380
+2025-10-09 14:25:36,456-pretrained_model_Global_NetCVR_PCOC: 0.77255
+2025-10-09 14:25:36,456-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.96148
+2025-10-09 14:25:36,456-pretrained_model_Global_CVR_PRAUC: 0.18282
+2025-10-09 14:25:36,456-pretrained_model_Global_NetCVR_PRAUC: 0.15685
+2025-10-09 14:25:36,456-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15489
+2025-10-09 14:25:45,187-Epoch 1 Day 25- Mean Loss: 0.70093
+2025-10-09 14:25:45,188-Epoch 1 train day 25: CVR_AUC: 0.76507
+2025-10-09 14:25:45,188-Epoch 1 train day 25: NetCVR_AUC: 0.76489
+2025-10-09 14:25:45,188-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:25:59,779-Model saved at Epoch 1 , Day 25 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:25:59,786-Testing best model with test set!
+2025-10-09 14:26:08,833-stream_model_Global_CVR_AUC: 0.74638
+2025-10-09 14:26:08,833-stream_model_Global_NetCVR_AUC: 0.75547
+2025-10-09 14:26:08,833-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75315
+2025-10-09 14:26:08,833-stream_model_Global_CVR_NLL: 0.23209
+2025-10-09 14:26:08,833-stream_model_Global_NetCVR_NLL: 0.18711
+2025-10-09 14:26:08,833-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19164
+2025-10-09 14:26:08,833-stream_model_Global_CVR_PCOC: 1.04709
+2025-10-09 14:26:08,833-stream_model_Global_NetCVR_PCOC: 1.06144
+2025-10-09 14:26:08,833-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.40252
+2025-10-09 14:26:08,833-stream_model_Global_CVR_PRAUC: 0.20951
+2025-10-09 14:26:08,834-stream_model_Global_NetCVR_PRAUC: 0.18046
+2025-10-09 14:26:08,834-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17672
+2025-10-09 14:26:08,834-pretrained_model_Global_CVR_AUC: 0.72281
+2025-10-09 14:26:08,834-pretrained_model_Global_NetCVR_AUC: 0.73606
+2025-10-09 14:26:08,834-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73284
+2025-10-09 14:26:08,834-pretrained_model_Global_CVR_NLL: 0.24184
+2025-10-09 14:26:08,834-pretrained_model_Global_NetCVR_NLL: 0.19260
+2025-10-09 14:26:08,834-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.19105
+2025-10-09 14:26:08,834-pretrained_model_Global_CVR_PCOC: 0.70758
+2025-10-09 14:26:08,834-pretrained_model_Global_NetCVR_PCOC: 0.76175
+2025-10-09 14:26:08,834-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.94776
+2025-10-09 14:26:08,834-pretrained_model_Global_CVR_PRAUC: 0.19236
+2025-10-09 14:26:08,834-pretrained_model_Global_NetCVR_PRAUC: 0.16509
+2025-10-09 14:26:08,834-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16337
+2025-10-09 14:26:17,728-Epoch 1 Day 26- Mean Loss: 0.72255
+2025-10-09 14:26:17,728-Epoch 1 train day 26: CVR_AUC: 0.75905
+2025-10-09 14:26:17,728-Epoch 1 train day 26: NetCVR_AUC: 0.75909
+2025-10-09 14:26:17,728-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:26:34,316-Model saved at Epoch 1 , Day 26 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:26:34,322-Testing best model with test set!
+2025-10-09 14:26:42,109-stream_model_Global_CVR_AUC: 0.72319
+2025-10-09 14:26:42,110-stream_model_Global_NetCVR_AUC: 0.73239
+2025-10-09 14:26:42,110-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.72960
+2025-10-09 14:26:42,110-stream_model_Global_CVR_NLL: 0.24010
+2025-10-09 14:26:42,110-stream_model_Global_NetCVR_NLL: 0.19562
+2025-10-09 14:26:42,110-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19732
+2025-10-09 14:26:42,110-stream_model_Global_CVR_PCOC: 0.93643
+2025-10-09 14:26:42,110-stream_model_Global_NetCVR_PCOC: 0.92073
+2025-10-09 14:26:42,110-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.23748
+2025-10-09 14:26:42,110-stream_model_Global_CVR_PRAUC: 0.19194
+2025-10-09 14:26:42,110-stream_model_Global_NetCVR_PRAUC: 0.16291
+2025-10-09 14:26:42,110-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16115
+2025-10-09 14:26:42,110-pretrained_model_Global_CVR_AUC: 0.70974
+2025-10-09 14:26:42,110-pretrained_model_Global_NetCVR_AUC: 0.72110
+2025-10-09 14:26:42,110-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.71840
+2025-10-09 14:26:42,110-pretrained_model_Global_CVR_NLL: 0.24707
+2025-10-09 14:26:42,110-pretrained_model_Global_NetCVR_NLL: 0.19961
+2025-10-09 14:26:42,110-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.19785
+2025-10-09 14:26:42,110-pretrained_model_Global_CVR_PCOC: 0.71967
+2025-10-09 14:26:42,110-pretrained_model_Global_NetCVR_PCOC: 0.76348
+2025-10-09 14:26:42,110-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.95104
+2025-10-09 14:26:42,110-pretrained_model_Global_CVR_PRAUC: 0.18283
+2025-10-09 14:26:42,110-pretrained_model_Global_NetCVR_PRAUC: 0.15548
+2025-10-09 14:26:42,110-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15410
+2025-10-09 14:26:49,608-Epoch 1 Day 27- Mean Loss: 0.74055
+2025-10-09 14:26:49,608-Epoch 1 train day 27: CVR_AUC: 0.73856
+2025-10-09 14:26:49,608-Epoch 1 train day 27: NetCVR_AUC: 0.74153
+2025-10-09 14:26:49,609-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:27:04,087-Model saved at Epoch 1 , Day 27 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:27:04,094-Testing best model with test set!
+2025-10-09 14:27:12,421-stream_model_Global_CVR_AUC: 0.73446
+2025-10-09 14:27:12,422-stream_model_Global_NetCVR_AUC: 0.74632
+2025-10-09 14:27:12,422-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74286
+2025-10-09 14:27:12,422-stream_model_Global_CVR_NLL: 0.24496
+2025-10-09 14:27:12,422-stream_model_Global_NetCVR_NLL: 0.19807
+2025-10-09 14:27:12,422-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19769
+2025-10-09 14:27:12,422-stream_model_Global_CVR_PCOC: 0.82591
+2025-10-09 14:27:12,422-stream_model_Global_NetCVR_PCOC: 0.81817
+2025-10-09 14:27:12,422-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.09939
+2025-10-09 14:27:12,422-stream_model_Global_CVR_PRAUC: 0.21260
+2025-10-09 14:27:12,422-stream_model_Global_NetCVR_PRAUC: 0.18419
+2025-10-09 14:27:12,422-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18261
+2025-10-09 14:27:12,422-pretrained_model_Global_CVR_AUC: 0.71835
+2025-10-09 14:27:12,422-pretrained_model_Global_NetCVR_AUC: 0.73384
+2025-10-09 14:27:12,422-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73027
+2025-10-09 14:27:12,422-pretrained_model_Global_CVR_NLL: 0.25284
+2025-10-09 14:27:12,422-pretrained_model_Global_NetCVR_NLL: 0.20225
+2025-10-09 14:27:12,422-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.20018
+2025-10-09 14:27:12,422-pretrained_model_Global_CVR_PCOC: 0.68592
+2025-10-09 14:27:12,422-pretrained_model_Global_NetCVR_PCOC: 0.73573
+2025-10-09 14:27:12,422-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.91305
+2025-10-09 14:27:12,422-pretrained_model_Global_CVR_PRAUC: 0.20115
+2025-10-09 14:27:12,422-pretrained_model_Global_NetCVR_PRAUC: 0.17499
+2025-10-09 14:27:12,422-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17300
+2025-10-09 14:27:20,706-Epoch 1 Day 28- Mean Loss: 0.85440
+2025-10-09 14:27:20,707-Epoch 1 train day 28: CVR_AUC: 0.72143
+2025-10-09 14:27:20,707-Epoch 1 train day 28: NetCVR_AUC: 0.71926
+2025-10-09 14:27:20,707-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:27:33,966-Model saved at Epoch 1 , Day 28 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:27:33,973-Testing best model with test set!
+2025-10-09 14:27:42,192-stream_model_Global_CVR_AUC: 0.73463
+2025-10-09 14:27:42,192-stream_model_Global_NetCVR_AUC: 0.74614
+2025-10-09 14:27:42,192-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74396
+2025-10-09 14:27:42,192-stream_model_Global_CVR_NLL: 0.24906
+2025-10-09 14:27:42,192-stream_model_Global_NetCVR_NLL: 0.20370
+2025-10-09 14:27:42,192-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.21236
+2025-10-09 14:27:42,192-stream_model_Global_CVR_PCOC: 1.23134
+2025-10-09 14:27:42,192-stream_model_Global_NetCVR_PCOC: 1.20092
+2025-10-09 14:27:42,192-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.60699
+2025-10-09 14:27:42,192-stream_model_Global_CVR_PRAUC: 0.21149
+2025-10-09 14:27:42,192-stream_model_Global_NetCVR_PRAUC: 0.18498
+2025-10-09 14:27:42,193-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18232
+2025-10-09 14:27:42,193-pretrained_model_Global_CVR_AUC: 0.71237
+2025-10-09 14:27:42,193-pretrained_model_Global_NetCVR_AUC: 0.72802
+2025-10-09 14:27:42,193-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72477
+2025-10-09 14:27:42,193-pretrained_model_Global_CVR_NLL: 0.25809
+2025-10-09 14:27:42,193-pretrained_model_Global_NetCVR_NLL: 0.20954
+2025-10-09 14:27:42,193-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.20715
+2025-10-09 14:27:42,193-pretrained_model_Global_CVR_PCOC: 0.68992
+2025-10-09 14:27:42,193-pretrained_model_Global_NetCVR_PCOC: 0.72858
+2025-10-09 14:27:42,193-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.90039
+2025-10-09 14:27:42,193-pretrained_model_Global_CVR_PRAUC: 0.19715
+2025-10-09 14:27:42,193-pretrained_model_Global_NetCVR_PRAUC: 0.17394
+2025-10-09 14:27:42,193-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17169
+2025-10-09 14:27:50,598-Epoch 1 Day 29- Mean Loss: 0.83051
+2025-10-09 14:27:50,598-Epoch 1 train day 29: CVR_AUC: 0.74159
+2025-10-09 14:27:50,598-Epoch 1 train day 29: NetCVR_AUC: 0.73926
+2025-10-09 14:27:50,598-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:28:03,220-Model saved at Epoch 1 , Day 29 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:28:03,226-Testing best model with test set!
+2025-10-09 14:28:07,173-stream_model_Global_CVR_AUC: 0.73897
+2025-10-09 14:28:07,174-stream_model_Global_NetCVR_AUC: 0.74761
+2025-10-09 14:28:07,174-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74381
+2025-10-09 14:28:07,174-stream_model_Global_CVR_NLL: 0.24054
+2025-10-09 14:28:07,174-stream_model_Global_NetCVR_NLL: 0.19624
+2025-10-09 14:28:07,174-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.21668
+2025-10-09 14:28:07,174-stream_model_Global_CVR_PCOC: 1.89744
+2025-10-09 14:28:07,174-stream_model_Global_NetCVR_PCOC: 1.90118
+2025-10-09 14:28:07,174-stream_model_Global_NetCVR_PCOC_by_cvr_head: 2.45940
+2025-10-09 14:28:07,174-stream_model_Global_CVR_PRAUC: 0.18794
+2025-10-09 14:28:07,174-stream_model_Global_NetCVR_PRAUC: 0.16738
+2025-10-09 14:28:07,174-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16092
+2025-10-09 14:28:07,174-pretrained_model_Global_CVR_AUC: 0.72513
+2025-10-09 14:28:07,174-pretrained_model_Global_NetCVR_AUC: 0.73803
+2025-10-09 14:28:07,174-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73524
+2025-10-09 14:28:07,174-pretrained_model_Global_CVR_NLL: 0.22323
+2025-10-09 14:28:07,174-pretrained_model_Global_NetCVR_NLL: 0.18247
+2025-10-09 14:28:07,174-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18153
+2025-10-09 14:28:07,174-pretrained_model_Global_CVR_PCOC: 0.76458
+2025-10-09 14:28:07,174-pretrained_model_Global_NetCVR_PCOC: 0.79718
+2025-10-09 14:28:07,174-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.99103
+2025-10-09 14:28:07,174-pretrained_model_Global_CVR_PRAUC: 0.18846
+2025-10-09 14:28:07,174-pretrained_model_Global_NetCVR_PRAUC: 0.16840
+2025-10-09 14:28:07,174-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16654
+2025-10-09 14:28:11,647-Epoch 1 Day 30- Mean Loss: 0.76532
+2025-10-09 14:28:11,647-Epoch 1 train day 30: CVR_AUC: 0.74426
+2025-10-09 14:28:11,648-Epoch 1 train day 30: NetCVR_AUC: 0.74467
+2025-10-09 14:28:11,648-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:28:24,526-Model saved at Epoch 1 , Day 30 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:28:24,533-Testing best model with test set!
+2025-10-09 14:28:26,431-stream_model_Global_CVR_AUC: 0.74223
+2025-10-09 14:28:26,432-stream_model_Global_NetCVR_AUC: 0.75649
+2025-10-09 14:28:26,432-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75041
+2025-10-09 14:28:26,432-stream_model_Global_CVR_NLL: 0.21731
+2025-10-09 14:28:26,432-stream_model_Global_NetCVR_NLL: 0.17752
+2025-10-09 14:28:26,432-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18024
+2025-10-09 14:28:26,432-stream_model_Global_CVR_PCOC: 0.97040
+2025-10-09 14:28:26,432-stream_model_Global_NetCVR_PCOC: 0.98845
+2025-10-09 14:28:26,432-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.26657
+2025-10-09 14:28:26,432-stream_model_Global_CVR_PRAUC: 0.19108
+2025-10-09 14:28:26,432-stream_model_Global_NetCVR_PRAUC: 0.16670
+2025-10-09 14:28:26,432-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16187
+2025-10-09 14:28:26,432-pretrained_model_Global_CVR_AUC: 0.72461
+2025-10-09 14:28:26,432-pretrained_model_Global_NetCVR_AUC: 0.74108
+2025-10-09 14:28:26,432-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73520
+2025-10-09 14:28:26,432-pretrained_model_Global_CVR_NLL: 0.22266
+2025-10-09 14:28:26,432-pretrained_model_Global_NetCVR_NLL: 0.18097
+2025-10-09 14:28:26,432-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18105
+2025-10-09 14:28:26,432-pretrained_model_Global_CVR_PCOC: 0.80923
+2025-10-09 14:28:26,432-pretrained_model_Global_NetCVR_PCOC: 0.84966
+2025-10-09 14:28:26,432-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.05620
+2025-10-09 14:28:26,433-pretrained_model_Global_CVR_PRAUC: 0.17764
+2025-10-09 14:28:26,433-pretrained_model_Global_NetCVR_PRAUC: 0.15341
+2025-10-09 14:28:26,433-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15236
+2025-10-09 14:28:28,520-Epoch 1 Day 31- Mean Loss: 0.73457
+2025-10-09 14:28:28,520-Epoch 1 train day 31: CVR_AUC: 0.73737
+2025-10-09 14:28:28,520-Epoch 1 train day 31: NetCVR_AUC: 0.74254
+2025-10-09 14:28:28,521-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:28:41,437-Model saved at Epoch 1 , Day 31 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:28:41,444-Testing best model with test set!
+2025-10-09 14:28:44,806-stream_model_Global_CVR_AUC: 0.73764
+2025-10-09 14:28:44,806-stream_model_Global_NetCVR_AUC: 0.75346
+2025-10-09 14:28:44,806-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74923
+2025-10-09 14:28:44,806-stream_model_Global_CVR_NLL: 0.21827
+2025-10-09 14:28:44,807-stream_model_Global_NetCVR_NLL: 0.17518
+2025-10-09 14:28:44,807-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17810
+2025-10-09 14:28:44,807-stream_model_Global_CVR_PCOC: 0.97228
+2025-10-09 14:28:44,807-stream_model_Global_NetCVR_PCOC: 1.01386
+2025-10-09 14:28:44,807-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.29681
+2025-10-09 14:28:44,807-stream_model_Global_CVR_PRAUC: 0.18281
+2025-10-09 14:28:44,807-stream_model_Global_NetCVR_PRAUC: 0.16162
+2025-10-09 14:28:44,807-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15619
+2025-10-09 14:28:44,807-pretrained_model_Global_CVR_AUC: 0.72700
+2025-10-09 14:28:44,807-pretrained_model_Global_NetCVR_AUC: 0.74462
+2025-10-09 14:28:44,807-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74172
+2025-10-09 14:28:44,807-pretrained_model_Global_CVR_NLL: 0.22229
+2025-10-09 14:28:44,807-pretrained_model_Global_NetCVR_NLL: 0.17703
+2025-10-09 14:28:44,807-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17703
+2025-10-09 14:28:44,807-pretrained_model_Global_CVR_PCOC: 0.80379
+2025-10-09 14:28:44,807-pretrained_model_Global_NetCVR_PCOC: 0.86209
+2025-10-09 14:28:44,807-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.07207
+2025-10-09 14:28:44,807-pretrained_model_Global_CVR_PRAUC: 0.17903
+2025-10-09 14:28:44,807-pretrained_model_Global_NetCVR_PRAUC: 0.15864
+2025-10-09 14:28:44,807-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15659
+2025-10-09 14:28:47,811-Epoch 1 Day 32- Mean Loss: 0.70409
+2025-10-09 14:28:47,811-Epoch 1 train day 32: CVR_AUC: 0.73729
+2025-10-09 14:28:47,811-Epoch 1 train day 32: NetCVR_AUC: 0.74563
+2025-10-09 14:28:47,811-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:29:00,614-Model saved at Epoch 1 , Day 32 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:29:00,622-Testing best model with test set!
+2025-10-09 14:29:09,890-stream_model_Global_CVR_AUC: 0.75971
+2025-10-09 14:29:09,890-stream_model_Global_NetCVR_AUC: 0.77093
+2025-10-09 14:29:09,890-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76672
+2025-10-09 14:29:09,890-stream_model_Global_CVR_NLL: 0.22599
+2025-10-09 14:29:09,890-stream_model_Global_NetCVR_NLL: 0.18454
+2025-10-09 14:29:09,890-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18108
+2025-10-09 14:29:09,890-stream_model_Global_CVR_PCOC: 0.66553
+2025-10-09 14:29:09,890-stream_model_Global_NetCVR_PCOC: 0.64630
+2025-10-09 14:29:09,890-stream_model_Global_NetCVR_PCOC_by_cvr_head: 0.87465
+2025-10-09 14:29:09,890-stream_model_Global_CVR_PRAUC: 0.21015
+2025-10-09 14:29:09,890-stream_model_Global_NetCVR_PRAUC: 0.18320
+2025-10-09 14:29:09,890-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17846
+2025-10-09 14:29:09,890-pretrained_model_Global_CVR_AUC: 0.74754
+2025-10-09 14:29:09,890-pretrained_model_Global_NetCVR_AUC: 0.76033
+2025-10-09 14:29:09,890-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.75766
+2025-10-09 14:29:09,890-pretrained_model_Global_CVR_NLL: 0.22719
+2025-10-09 14:29:09,890-pretrained_model_Global_NetCVR_NLL: 0.18377
+2025-10-09 14:29:09,890-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18205
+2025-10-09 14:29:09,890-pretrained_model_Global_CVR_PCOC: 0.70098
+2025-10-09 14:29:09,891-pretrained_model_Global_NetCVR_PCOC: 0.74052
+2025-10-09 14:29:09,891-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.92124
+2025-10-09 14:29:09,891-pretrained_model_Global_CVR_PRAUC: 0.20412
+2025-10-09 14:29:09,891-pretrained_model_Global_NetCVR_PRAUC: 0.17806
+2025-10-09 14:29:09,891-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17505
+2025-10-09 14:29:17,937-Epoch 1 Day 33- Mean Loss: 0.66027
+2025-10-09 14:29:17,937-Epoch 1 train day 33: CVR_AUC: 0.77051
+2025-10-09 14:29:17,937-Epoch 1 train day 33: NetCVR_AUC: 0.77535
+2025-10-09 14:29:17,937-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:29:31,360-Model saved at Epoch 1 , Day 33 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:29:31,368-Testing best model with test set!
+2025-10-09 14:29:41,318-stream_model_Global_CVR_AUC: 0.76706
+2025-10-09 14:29:41,318-stream_model_Global_NetCVR_AUC: 0.77584
+2025-10-09 14:29:41,318-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.77367
+2025-10-09 14:29:41,318-stream_model_Global_CVR_NLL: 0.22409
+2025-10-09 14:29:41,318-stream_model_Global_NetCVR_NLL: 0.18391
+2025-10-09 14:29:41,319-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18481
+2025-10-09 14:29:41,319-stream_model_Global_CVR_PCOC: 0.90132
+2025-10-09 14:29:41,319-stream_model_Global_NetCVR_PCOC: 0.87878
+2025-10-09 14:29:41,319-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.18017
+2025-10-09 14:29:41,319-stream_model_Global_CVR_PRAUC: 0.22322
+2025-10-09 14:29:41,319-stream_model_Global_NetCVR_PRAUC: 0.19348
+2025-10-09 14:29:41,319-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18979
+2025-10-09 14:29:41,319-pretrained_model_Global_CVR_AUC: 0.74058
+2025-10-09 14:29:41,319-pretrained_model_Global_NetCVR_AUC: 0.75334
+2025-10-09 14:29:41,319-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74988
+2025-10-09 14:29:41,319-pretrained_model_Global_CVR_NLL: 0.23452
+2025-10-09 14:29:41,319-pretrained_model_Global_NetCVR_NLL: 0.19027
+2025-10-09 14:29:41,319-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18847
+2025-10-09 14:29:41,319-pretrained_model_Global_CVR_PCOC: 0.69986
+2025-10-09 14:29:41,319-pretrained_model_Global_NetCVR_PCOC: 0.73786
+2025-10-09 14:29:41,319-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.91638
+2025-10-09 14:29:41,319-pretrained_model_Global_CVR_PRAUC: 0.20360
+2025-10-09 14:29:41,319-pretrained_model_Global_NetCVR_PRAUC: 0.17771
+2025-10-09 14:29:41,319-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17546
+2025-10-09 14:29:51,080-Epoch 1 Day 34- Mean Loss: 0.69445
+2025-10-09 14:29:51,080-Epoch 1 train day 34: CVR_AUC: 0.77452
+2025-10-09 14:29:51,080-Epoch 1 train day 34: NetCVR_AUC: 0.77716
+2025-10-09 14:29:51,080-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:30:03,940-Model saved at Epoch 1 , Day 34 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:30:03,947-Testing best model with test set!
+2025-10-09 14:30:13,283-stream_model_Global_CVR_AUC: 0.75984
+2025-10-09 14:30:13,283-stream_model_Global_NetCVR_AUC: 0.77075
+2025-10-09 14:30:13,283-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.77026
+2025-10-09 14:30:13,283-stream_model_Global_CVR_NLL: 0.22472
+2025-10-09 14:30:13,283-stream_model_Global_NetCVR_NLL: 0.18340
+2025-10-09 14:30:13,283-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18556
+2025-10-09 14:30:13,283-stream_model_Global_CVR_PCOC: 0.97958
+2025-10-09 14:30:13,284-stream_model_Global_NetCVR_PCOC: 0.99127
+2025-10-09 14:30:13,284-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.28575
+2025-10-09 14:30:13,284-stream_model_Global_CVR_PRAUC: 0.22317
+2025-10-09 14:30:13,284-stream_model_Global_NetCVR_PRAUC: 0.19670
+2025-10-09 14:30:13,284-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.19654
+2025-10-09 14:30:13,284-pretrained_model_Global_CVR_AUC: 0.72826
+2025-10-09 14:30:13,284-pretrained_model_Global_NetCVR_AUC: 0.74367
+2025-10-09 14:30:13,284-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74078
+2025-10-09 14:30:13,284-pretrained_model_Global_CVR_NLL: 0.23538
+2025-10-09 14:30:13,284-pretrained_model_Global_NetCVR_NLL: 0.19030
+2025-10-09 14:30:13,284-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18894
+2025-10-09 14:30:13,284-pretrained_model_Global_CVR_PCOC: 0.73587
+2025-10-09 14:30:13,284-pretrained_model_Global_NetCVR_PCOC: 0.77889
+2025-10-09 14:30:13,284-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.96586
+2025-10-09 14:30:13,284-pretrained_model_Global_CVR_PRAUC: 0.20081
+2025-10-09 14:30:13,284-pretrained_model_Global_NetCVR_PRAUC: 0.17697
+2025-10-09 14:30:13,284-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17549
+2025-10-09 14:30:22,214-Epoch 1 Day 35- Mean Loss: 0.70366
+2025-10-09 14:30:22,214-Epoch 1 train day 35: CVR_AUC: 0.76937
+2025-10-09 14:30:22,214-Epoch 1 train day 35: NetCVR_AUC: 0.77188
+2025-10-09 14:30:22,214-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:30:35,087-Model saved at Epoch 1 , Day 35 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:30:35,100-Testing best model with test set!
+2025-10-09 14:30:45,437-stream_model_Global_CVR_AUC: 0.75183
+2025-10-09 14:30:45,437-stream_model_Global_NetCVR_AUC: 0.76351
+2025-10-09 14:30:45,437-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76142
+2025-10-09 14:30:45,437-stream_model_Global_CVR_NLL: 0.22225
+2025-10-09 14:30:45,437-stream_model_Global_NetCVR_NLL: 0.18111
+2025-10-09 14:30:45,437-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18426
+2025-10-09 14:30:45,437-stream_model_Global_CVR_PCOC: 1.01621
+2025-10-09 14:30:45,437-stream_model_Global_NetCVR_PCOC: 1.00354
+2025-10-09 14:30:45,437-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.33338
+2025-10-09 14:30:45,437-stream_model_Global_CVR_PRAUC: 0.20854
+2025-10-09 14:30:45,437-stream_model_Global_NetCVR_PRAUC: 0.18364
+2025-10-09 14:30:45,437-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18175
+2025-10-09 14:30:45,437-pretrained_model_Global_CVR_AUC: 0.71774
+2025-10-09 14:30:45,437-pretrained_model_Global_NetCVR_AUC: 0.73371
+2025-10-09 14:30:45,437-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73029
+2025-10-09 14:30:45,437-pretrained_model_Global_CVR_NLL: 0.23275
+2025-10-09 14:30:45,437-pretrained_model_Global_NetCVR_NLL: 0.18811
+2025-10-09 14:30:45,437-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18721
+2025-10-09 14:30:45,438-pretrained_model_Global_CVR_PCOC: 0.76172
+2025-10-09 14:30:45,438-pretrained_model_Global_NetCVR_PCOC: 0.80437
+2025-10-09 14:30:45,438-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.99947
+2025-10-09 14:30:45,438-pretrained_model_Global_CVR_PRAUC: 0.18276
+2025-10-09 14:30:45,438-pretrained_model_Global_NetCVR_PRAUC: 0.16084
+2025-10-09 14:30:45,438-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15930
+2025-10-09 14:30:54,938-Epoch 1 Day 36- Mean Loss: 0.72577
+2025-10-09 14:30:54,938-Epoch 1 train day 36: CVR_AUC: 0.76091
+2025-10-09 14:30:54,938-Epoch 1 train day 36: NetCVR_AUC: 0.76536
+2025-10-09 14:30:54,938-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:31:07,967-Model saved at Epoch 1 , Day 36 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:31:07,975-Testing best model with test set!
+2025-10-09 14:31:15,773-stream_model_Global_CVR_AUC: 0.74393
+2025-10-09 14:31:15,773-stream_model_Global_NetCVR_AUC: 0.75912
+2025-10-09 14:31:15,773-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75750
+2025-10-09 14:31:15,773-stream_model_Global_CVR_NLL: 0.22165
+2025-10-09 14:31:15,773-stream_model_Global_NetCVR_NLL: 0.17899
+2025-10-09 14:31:15,773-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18222
+2025-10-09 14:31:15,773-stream_model_Global_CVR_PCOC: 1.03361
+2025-10-09 14:31:15,773-stream_model_Global_NetCVR_PCOC: 1.06360
+2025-10-09 14:31:15,773-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.36666
+2025-10-09 14:31:15,773-stream_model_Global_CVR_PRAUC: 0.20180
+2025-10-09 14:31:15,773-stream_model_Global_NetCVR_PRAUC: 0.17791
+2025-10-09 14:31:15,773-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17682
+2025-10-09 14:31:15,773-pretrained_model_Global_CVR_AUC: 0.71570
+2025-10-09 14:31:15,773-pretrained_model_Global_NetCVR_AUC: 0.73363
+2025-10-09 14:31:15,773-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73104
+2025-10-09 14:31:15,774-pretrained_model_Global_CVR_NLL: 0.22935
+2025-10-09 14:31:15,774-pretrained_model_Global_NetCVR_NLL: 0.18417
+2025-10-09 14:31:15,774-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18377
+2025-10-09 14:31:15,774-pretrained_model_Global_CVR_PCOC: 0.79080
+2025-10-09 14:31:15,774-pretrained_model_Global_NetCVR_PCOC: 0.84180
+2025-10-09 14:31:15,774-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.04561
+2025-10-09 14:31:15,774-pretrained_model_Global_CVR_PRAUC: 0.18187
+2025-10-09 14:31:15,774-pretrained_model_Global_NetCVR_PRAUC: 0.15915
+2025-10-09 14:31:15,774-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15734
+2025-10-09 14:31:23,615-Epoch 1 Day 37- Mean Loss: 0.72330
+2025-10-09 14:31:23,615-Epoch 1 train day 37: CVR_AUC: 0.75115
+2025-10-09 14:31:23,615-Epoch 1 train day 37: NetCVR_AUC: 0.75712
+2025-10-09 14:31:23,615-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:31:36,767-Model saved at Epoch 1 , Day 37 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:31:36,774-Testing best model with test set!
+2025-10-09 14:31:45,209-stream_model_Global_CVR_AUC: 0.74177
+2025-10-09 14:31:45,210-stream_model_Global_NetCVR_AUC: 0.75538
+2025-10-09 14:31:45,210-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75295
+2025-10-09 14:31:45,210-stream_model_Global_CVR_NLL: 0.23343
+2025-10-09 14:31:45,210-stream_model_Global_NetCVR_NLL: 0.18929
+2025-10-09 14:31:45,210-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19065
+2025-10-09 14:31:45,210-stream_model_Global_CVR_PCOC: 0.91409
+2025-10-09 14:31:45,210-stream_model_Global_NetCVR_PCOC: 0.93216
+2025-10-09 14:31:45,210-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.20520
+2025-10-09 14:31:45,210-stream_model_Global_CVR_PRAUC: 0.20896
+2025-10-09 14:31:45,210-stream_model_Global_NetCVR_PRAUC: 0.18444
+2025-10-09 14:31:45,210-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18300
+2025-10-09 14:31:45,210-pretrained_model_Global_CVR_AUC: 0.71064
+2025-10-09 14:31:45,210-pretrained_model_Global_NetCVR_AUC: 0.72637
+2025-10-09 14:31:45,210-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72260
+2025-10-09 14:31:45,210-pretrained_model_Global_CVR_NLL: 0.24370
+2025-10-09 14:31:45,210-pretrained_model_Global_NetCVR_NLL: 0.19647
+2025-10-09 14:31:45,210-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.19528
+2025-10-09 14:31:45,210-pretrained_model_Global_CVR_PCOC: 0.74429
+2025-10-09 14:31:45,210-pretrained_model_Global_NetCVR_PCOC: 0.79198
+2025-10-09 14:31:45,210-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.98133
+2025-10-09 14:31:45,210-pretrained_model_Global_CVR_PRAUC: 0.18553
+2025-10-09 14:31:45,210-pretrained_model_Global_NetCVR_PRAUC: 0.16277
+2025-10-09 14:31:45,210-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16071
+2025-10-09 14:31:54,715-Epoch 1 Day 38- Mean Loss: 0.78178
+2025-10-09 14:31:54,715-Epoch 1 train day 38: CVR_AUC: 0.73949
+2025-10-09 14:31:54,715-Epoch 1 train day 38: NetCVR_AUC: 0.74374
+2025-10-09 14:31:54,716-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:32:07,725-Model saved at Epoch 1 , Day 38 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:32:07,733-Testing best model with test set!
+2025-10-09 14:32:15,613-stream_model_Global_CVR_AUC: 0.73817
+2025-10-09 14:32:15,613-stream_model_Global_NetCVR_AUC: 0.75307
+2025-10-09 14:32:15,614-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75038
+2025-10-09 14:32:15,614-stream_model_Global_CVR_NLL: 0.23751
+2025-10-09 14:32:15,614-stream_model_Global_NetCVR_NLL: 0.19473
+2025-10-09 14:32:15,614-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19908
+2025-10-09 14:32:15,614-stream_model_Global_CVR_PCOC: 1.05884
+2025-10-09 14:32:15,614-stream_model_Global_NetCVR_PCOC: 1.03092
+2025-10-09 14:32:15,614-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.37519
+2025-10-09 14:32:15,614-stream_model_Global_CVR_PRAUC: 0.20447
+2025-10-09 14:32:15,614-stream_model_Global_NetCVR_PRAUC: 0.18068
+2025-10-09 14:32:15,614-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17733
+2025-10-09 14:32:15,614-pretrained_model_Global_CVR_AUC: 0.70957
+2025-10-09 14:32:15,614-pretrained_model_Global_NetCVR_AUC: 0.72804
+2025-10-09 14:32:15,614-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72390
+2025-10-09 14:32:15,614-pretrained_model_Global_CVR_NLL: 0.24766
+2025-10-09 14:32:15,614-pretrained_model_Global_NetCVR_NLL: 0.20161
+2025-10-09 14:32:15,614-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.20034
+2025-10-09 14:32:15,614-pretrained_model_Global_CVR_PCOC: 0.73758
+2025-10-09 14:32:15,614-pretrained_model_Global_NetCVR_PCOC: 0.77552
+2025-10-09 14:32:15,614-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.95795
+2025-10-09 14:32:15,614-pretrained_model_Global_CVR_PRAUC: 0.18403
+2025-10-09 14:32:15,614-pretrained_model_Global_NetCVR_PRAUC: 0.16268
+2025-10-09 14:32:15,614-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15987
+2025-10-09 14:32:23,828-Epoch 1 Day 39- Mean Loss: 0.79971
+2025-10-09 14:32:23,828-Epoch 1 train day 39: CVR_AUC: 0.74240
+2025-10-09 14:32:23,828-Epoch 1 train day 39: NetCVR_AUC: 0.74614
+2025-10-09 14:32:23,828-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:32:36,806-Model saved at Epoch 1 , Day 39 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:32:36,814-Testing best model with test set!
+2025-10-09 14:32:40,607-stream_model_Global_CVR_AUC: 0.74133
+2025-10-09 14:32:40,608-stream_model_Global_NetCVR_AUC: 0.75085
+2025-10-09 14:32:40,608-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.74778
+2025-10-09 14:32:40,608-stream_model_Global_CVR_NLL: 0.22190
+2025-10-09 14:32:40,608-stream_model_Global_NetCVR_NLL: 0.18300
+2025-10-09 14:32:40,608-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19035
+2025-10-09 14:32:40,608-stream_model_Global_CVR_PCOC: 1.26303
+2025-10-09 14:32:40,608-stream_model_Global_NetCVR_PCOC: 1.27277
+2025-10-09 14:32:40,608-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.63391
+2025-10-09 14:32:40,608-stream_model_Global_CVR_PRAUC: 0.19311
+2025-10-09 14:32:40,608-stream_model_Global_NetCVR_PRAUC: 0.16844
+2025-10-09 14:32:40,608-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16446
+2025-10-09 14:32:40,608-pretrained_model_Global_CVR_AUC: 0.70943
+2025-10-09 14:32:40,608-pretrained_model_Global_NetCVR_AUC: 0.72526
+2025-10-09 14:32:40,608-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72160
+2025-10-09 14:32:40,608-pretrained_model_Global_CVR_NLL: 0.22734
+2025-10-09 14:32:40,608-pretrained_model_Global_NetCVR_NLL: 0.18611
+2025-10-09 14:32:40,608-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18552
+2025-10-09 14:32:40,608-pretrained_model_Global_CVR_PCOC: 0.78650
+2025-10-09 14:32:40,608-pretrained_model_Global_NetCVR_PCOC: 0.81831
+2025-10-09 14:32:40,609-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.01745
+2025-10-09 14:32:40,609-pretrained_model_Global_CVR_PRAUC: 0.17541
+2025-10-09 14:32:40,609-pretrained_model_Global_NetCVR_PRAUC: 0.15324
+2025-10-09 14:32:40,609-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15159
+2025-10-09 14:32:44,633-Epoch 1 Day 40- Mean Loss: 0.75860
+2025-10-09 14:32:44,633-Epoch 1 train day 40: CVR_AUC: 0.74752
+2025-10-09 14:32:44,633-Epoch 1 train day 40: NetCVR_AUC: 0.74974
+2025-10-09 14:32:44,633-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:32:57,679-Model saved at Epoch 1 , Day 40 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:32:57,686-Testing best model with test set!
+2025-10-09 14:32:59,440-stream_model_Global_CVR_AUC: 0.74950
+2025-10-09 14:32:59,440-stream_model_Global_NetCVR_AUC: 0.76364
+2025-10-09 14:32:59,440-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75928
+2025-10-09 14:32:59,441-stream_model_Global_CVR_NLL: 0.21300
+2025-10-09 14:32:59,441-stream_model_Global_NetCVR_NLL: 0.17622
+2025-10-09 14:32:59,441-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17934
+2025-10-09 14:32:59,441-stream_model_Global_CVR_PCOC: 1.02763
+2025-10-09 14:32:59,441-stream_model_Global_NetCVR_PCOC: 1.04140
+2025-10-09 14:32:59,441-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.32031
+2025-10-09 14:32:59,441-stream_model_Global_CVR_PRAUC: 0.19595
+2025-10-09 14:32:59,441-stream_model_Global_NetCVR_PRAUC: 0.16985
+2025-10-09 14:32:59,441-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16813
+2025-10-09 14:32:59,441-pretrained_model_Global_CVR_AUC: 0.72590
+2025-10-09 14:32:59,441-pretrained_model_Global_NetCVR_AUC: 0.74284
+2025-10-09 14:32:59,441-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73873
+2025-10-09 14:32:59,441-pretrained_model_Global_CVR_NLL: 0.21882
+2025-10-09 14:32:59,441-pretrained_model_Global_NetCVR_NLL: 0.18011
+2025-10-09 14:32:59,441-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18013
+2025-10-09 14:32:59,441-pretrained_model_Global_CVR_PCOC: 0.83968
+2025-10-09 14:32:59,441-pretrained_model_Global_NetCVR_PCOC: 0.86902
+2025-10-09 14:32:59,441-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.07883
+2025-10-09 14:32:59,441-pretrained_model_Global_CVR_PRAUC: 0.18151
+2025-10-09 14:32:59,441-pretrained_model_Global_NetCVR_PRAUC: 0.15983
+2025-10-09 14:32:59,441-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15883
+2025-10-09 14:33:01,422-Epoch 1 Day 41- Mean Loss: 0.73061
+2025-10-09 14:33:01,422-Epoch 1 train day 41: CVR_AUC: 0.74432
+2025-10-09 14:33:01,422-Epoch 1 train day 41: NetCVR_AUC: 0.74869
+2025-10-09 14:33:01,423-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:33:15,079-Model saved at Epoch 1 , Day 41 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:33:15,086-Testing best model with test set!
+2025-10-09 14:33:18,306-stream_model_Global_CVR_AUC: 0.75221
+2025-10-09 14:33:18,306-stream_model_Global_NetCVR_AUC: 0.76386
+2025-10-09 14:33:18,306-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76132
+2025-10-09 14:33:18,306-stream_model_Global_CVR_NLL: 0.20708
+2025-10-09 14:33:18,306-stream_model_Global_NetCVR_NLL: 0.16598
+2025-10-09 14:33:18,306-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16829
+2025-10-09 14:33:18,306-stream_model_Global_CVR_PCOC: 0.95710
+2025-10-09 14:33:18,306-stream_model_Global_NetCVR_PCOC: 1.01250
+2025-10-09 14:33:18,306-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.28330
+2025-10-09 14:33:18,306-stream_model_Global_CVR_PRAUC: 0.18865
+2025-10-09 14:33:18,306-stream_model_Global_NetCVR_PRAUC: 0.16359
+2025-10-09 14:33:18,307-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16070
+2025-10-09 14:33:18,307-pretrained_model_Global_CVR_AUC: 0.72975
+2025-10-09 14:33:18,307-pretrained_model_Global_NetCVR_AUC: 0.74327
+2025-10-09 14:33:18,307-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74010
+2025-10-09 14:33:18,307-pretrained_model_Global_CVR_NLL: 0.21260
+2025-10-09 14:33:18,307-pretrained_model_Global_NetCVR_NLL: 0.16943
+2025-10-09 14:33:18,307-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17027
+2025-10-09 14:33:18,307-pretrained_model_Global_CVR_PCOC: 0.86097
+2025-10-09 14:33:18,307-pretrained_model_Global_NetCVR_PCOC: 0.92930
+2025-10-09 14:33:18,307-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.15439
+2025-10-09 14:33:18,307-pretrained_model_Global_CVR_PRAUC: 0.17554
+2025-10-09 14:33:18,307-pretrained_model_Global_NetCVR_PRAUC: 0.15228
+2025-10-09 14:33:18,307-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15052
+2025-10-09 14:33:21,299-Epoch 1 Day 42- Mean Loss: 0.66914
+2025-10-09 14:33:21,299-Epoch 1 train day 42: CVR_AUC: 0.75188
+2025-10-09 14:33:21,299-Epoch 1 train day 42: NetCVR_AUC: 0.75737
+2025-10-09 14:33:21,299-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:33:35,103-Model saved at Epoch 1 , Day 42 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:33:35,109-Testing best model with test set!
+2025-10-09 14:33:42,929-stream_model_Global_CVR_AUC: 0.76100
+2025-10-09 14:33:42,929-stream_model_Global_NetCVR_AUC: 0.77188
+2025-10-09 14:33:42,929-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76881
+2025-10-09 14:33:42,929-stream_model_Global_CVR_NLL: 0.21860
+2025-10-09 14:33:42,929-stream_model_Global_NetCVR_NLL: 0.17900
+2025-10-09 14:33:42,929-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17652
+2025-10-09 14:33:42,929-stream_model_Global_CVR_PCOC: 0.72626
+2025-10-09 14:33:42,929-stream_model_Global_NetCVR_PCOC: 0.70600
+2025-10-09 14:33:42,929-stream_model_Global_NetCVR_PCOC_by_cvr_head: 0.94947
+2025-10-09 14:33:42,929-stream_model_Global_CVR_PRAUC: 0.20499
+2025-10-09 14:33:42,929-stream_model_Global_NetCVR_PRAUC: 0.17785
+2025-10-09 14:33:42,929-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17586
+2025-10-09 14:33:42,929-pretrained_model_Global_CVR_AUC: 0.73612
+2025-10-09 14:33:42,929-pretrained_model_Global_NetCVR_AUC: 0.74999
+2025-10-09 14:33:42,930-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74737
+2025-10-09 14:33:42,930-pretrained_model_Global_CVR_NLL: 0.22243
+2025-10-09 14:33:42,930-pretrained_model_Global_NetCVR_NLL: 0.18071
+2025-10-09 14:33:42,930-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17985
+2025-10-09 14:33:42,930-pretrained_model_Global_CVR_PCOC: 0.76607
+2025-10-09 14:33:42,930-pretrained_model_Global_NetCVR_PCOC: 0.80650
+2025-10-09 14:33:42,930-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.00151
+2025-10-09 14:33:42,930-pretrained_model_Global_CVR_PRAUC: 0.18952
+2025-10-09 14:33:42,930-pretrained_model_Global_NetCVR_PRAUC: 0.16459
+2025-10-09 14:33:42,930-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16284
+2025-10-09 14:33:50,129-Epoch 1 Day 43- Mean Loss: 0.66874
+2025-10-09 14:33:50,129-Epoch 1 train day 43: CVR_AUC: 0.76630
+2025-10-09 14:33:50,129-Epoch 1 train day 43: NetCVR_AUC: 0.77187
+2025-10-09 14:33:50,129-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:34:03,306-Model saved at Epoch 1 , Day 43 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:34:03,313-Testing best model with test set!
+2025-10-09 14:34:13,220-stream_model_Global_CVR_AUC: 0.77956
+2025-10-09 14:34:13,220-stream_model_Global_NetCVR_AUC: 0.79058
+2025-10-09 14:34:13,220-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.78905
+2025-10-09 14:34:13,220-stream_model_Global_CVR_NLL: 0.20991
+2025-10-09 14:34:13,220-stream_model_Global_NetCVR_NLL: 0.17101
+2025-10-09 14:34:13,220-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17275
+2025-10-09 14:34:13,220-stream_model_Global_CVR_PCOC: 0.94287
+2025-10-09 14:34:13,220-stream_model_Global_NetCVR_PCOC: 0.93736
+2025-10-09 14:34:13,220-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.23834
+2025-10-09 14:34:13,220-stream_model_Global_CVR_PRAUC: 0.22445
+2025-10-09 14:34:13,220-stream_model_Global_NetCVR_PRAUC: 0.19739
+2025-10-09 14:34:13,220-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.19448
+2025-10-09 14:34:13,220-pretrained_model_Global_CVR_AUC: 0.74392
+2025-10-09 14:34:13,220-pretrained_model_Global_NetCVR_AUC: 0.75824
+2025-10-09 14:34:13,220-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.75603
+2025-10-09 14:34:13,220-pretrained_model_Global_CVR_NLL: 0.22108
+2025-10-09 14:34:13,221-pretrained_model_Global_NetCVR_NLL: 0.17859
+2025-10-09 14:34:13,221-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17768
+2025-10-09 14:34:13,221-pretrained_model_Global_CVR_PCOC: 0.76198
+2025-10-09 14:34:13,221-pretrained_model_Global_NetCVR_PCOC: 0.80736
+2025-10-09 14:34:13,221-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.00077
+2025-10-09 14:34:13,221-pretrained_model_Global_CVR_PRAUC: 0.19705
+2025-10-09 14:34:13,221-pretrained_model_Global_NetCVR_PRAUC: 0.17379
+2025-10-09 14:34:13,221-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17168
+2025-10-09 14:34:22,787-Epoch 1 Day 44- Mean Loss: 0.67447
+2025-10-09 14:34:22,787-Epoch 1 train day 44: CVR_AUC: 0.78200
+2025-10-09 14:34:22,787-Epoch 1 train day 44: NetCVR_AUC: 0.78422
+2025-10-09 14:34:22,787-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:34:35,608-Model saved at Epoch 1 , Day 44 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:34:35,615-Testing best model with test set!
+2025-10-09 14:34:44,993-stream_model_Global_CVR_AUC: 0.77403
+2025-10-09 14:34:44,993-stream_model_Global_NetCVR_AUC: 0.78604
+2025-10-09 14:34:44,994-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.78451
+2025-10-09 14:34:44,994-stream_model_Global_CVR_NLL: 0.20967
+2025-10-09 14:34:44,994-stream_model_Global_NetCVR_NLL: 0.17100
+2025-10-09 14:34:44,994-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17467
+2025-10-09 14:34:44,994-stream_model_Global_CVR_PCOC: 1.06272
+2025-10-09 14:34:44,994-stream_model_Global_NetCVR_PCOC: 1.08896
+2025-10-09 14:34:44,994-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.39056
+2025-10-09 14:34:44,994-stream_model_Global_CVR_PRAUC: 0.22150
+2025-10-09 14:34:44,994-stream_model_Global_NetCVR_PRAUC: 0.19739
+2025-10-09 14:34:44,994-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.19550
+2025-10-09 14:34:44,994-pretrained_model_Global_CVR_AUC: 0.73643
+2025-10-09 14:34:44,994-pretrained_model_Global_NetCVR_AUC: 0.75289
+2025-10-09 14:34:44,994-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74996
+2025-10-09 14:34:44,994-pretrained_model_Global_CVR_NLL: 0.22004
+2025-10-09 14:34:44,994-pretrained_model_Global_NetCVR_NLL: 0.17817
+2025-10-09 14:34:44,994-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17767
+2025-10-09 14:34:44,994-pretrained_model_Global_CVR_PCOC: 0.78703
+2025-10-09 14:34:44,994-pretrained_model_Global_NetCVR_PCOC: 0.83055
+2025-10-09 14:34:44,994-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.02981
+2025-10-09 14:34:44,994-pretrained_model_Global_CVR_PRAUC: 0.19265
+2025-10-09 14:34:44,994-pretrained_model_Global_NetCVR_PRAUC: 0.17103
+2025-10-09 14:34:44,994-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16951
+2025-10-09 14:34:53,930-Epoch 1 Day 45- Mean Loss: 0.68156
+2025-10-09 14:34:53,931-Epoch 1 train day 45: CVR_AUC: 0.77529
+2025-10-09 14:34:53,931-Epoch 1 train day 45: NetCVR_AUC: 0.77935
+2025-10-09 14:34:53,931-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:35:06,923-Model saved at Epoch 1 , Day 45 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:35:06,930-Testing best model with test set!
+2025-10-09 14:35:15,851-stream_model_Global_CVR_AUC: 0.75953
+2025-10-09 14:35:15,851-stream_model_Global_NetCVR_AUC: 0.77075
+2025-10-09 14:35:15,851-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76926
+2025-10-09 14:35:15,851-stream_model_Global_CVR_NLL: 0.20987
+2025-10-09 14:35:15,851-stream_model_Global_NetCVR_NLL: 0.17106
+2025-10-09 14:35:15,851-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17502
+2025-10-09 14:35:15,851-stream_model_Global_CVR_PCOC: 1.07520
+2025-10-09 14:35:15,851-stream_model_Global_NetCVR_PCOC: 1.07281
+2025-10-09 14:35:15,851-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.40792
+2025-10-09 14:35:15,851-stream_model_Global_CVR_PRAUC: 0.20331
+2025-10-09 14:35:15,852-stream_model_Global_NetCVR_PRAUC: 0.17877
+2025-10-09 14:35:15,852-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17679
+2025-10-09 14:35:15,852-pretrained_model_Global_CVR_AUC: 0.72375
+2025-10-09 14:35:15,852-pretrained_model_Global_NetCVR_AUC: 0.73895
+2025-10-09 14:35:15,852-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73550
+2025-10-09 14:35:15,852-pretrained_model_Global_CVR_NLL: 0.21897
+2025-10-09 14:35:15,852-pretrained_model_Global_NetCVR_NLL: 0.17739
+2025-10-09 14:35:15,852-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17736
+2025-10-09 14:35:15,852-pretrained_model_Global_CVR_PCOC: 0.81418
+2025-10-09 14:35:15,852-pretrained_model_Global_NetCVR_PCOC: 0.85888
+2025-10-09 14:35:15,852-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.06614
+2025-10-09 14:35:15,852-pretrained_model_Global_CVR_PRAUC: 0.17664
+2025-10-09 14:35:15,852-pretrained_model_Global_NetCVR_PRAUC: 0.15475
+2025-10-09 14:35:15,852-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15304
+2025-10-09 14:35:24,735-Epoch 1 Day 46- Mean Loss: 0.69904
+2025-10-09 14:35:24,736-Epoch 1 train day 46: CVR_AUC: 0.77093
+2025-10-09 14:35:24,736-Epoch 1 train day 46: NetCVR_AUC: 0.77471
+2025-10-09 14:35:24,736-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:35:37,860-Model saved at Epoch 1 , Day 46 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:35:37,867-Testing best model with test set!
+2025-10-09 14:35:45,717-stream_model_Global_CVR_AUC: 0.75089
+2025-10-09 14:35:45,718-stream_model_Global_NetCVR_AUC: 0.76535
+2025-10-09 14:35:45,718-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76329
+2025-10-09 14:35:45,718-stream_model_Global_CVR_NLL: 0.21175
+2025-10-09 14:35:45,718-stream_model_Global_NetCVR_NLL: 0.17092
+2025-10-09 14:35:45,718-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17540
+2025-10-09 14:35:45,718-stream_model_Global_CVR_PCOC: 1.09735
+2025-10-09 14:35:45,718-stream_model_Global_NetCVR_PCOC: 1.10146
+2025-10-09 14:35:45,718-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.44820
+2025-10-09 14:35:45,718-stream_model_Global_CVR_PRAUC: 0.20054
+2025-10-09 14:35:45,718-stream_model_Global_NetCVR_PRAUC: 0.17945
+2025-10-09 14:35:45,718-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17805
+2025-10-09 14:35:45,718-pretrained_model_Global_CVR_AUC: 0.71670
+2025-10-09 14:35:45,718-pretrained_model_Global_NetCVR_AUC: 0.73490
+2025-10-09 14:35:45,718-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73171
+2025-10-09 14:35:45,718-pretrained_model_Global_CVR_NLL: 0.21959
+2025-10-09 14:35:45,718-pretrained_model_Global_NetCVR_NLL: 0.17630
+2025-10-09 14:35:45,718-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17667
+2025-10-09 14:35:45,718-pretrained_model_Global_CVR_PCOC: 0.83914
+2025-10-09 14:35:45,718-pretrained_model_Global_NetCVR_PCOC: 0.89102
+2025-10-09 14:35:45,718-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.10743
+2025-10-09 14:35:45,718-pretrained_model_Global_CVR_PRAUC: 0.17676
+2025-10-09 14:35:45,718-pretrained_model_Global_NetCVR_PRAUC: 0.15802
+2025-10-09 14:35:45,718-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15591
+2025-10-09 14:35:53,879-Epoch 1 Day 47- Mean Loss: 0.69590
+2025-10-09 14:35:53,879-Epoch 1 train day 47: CVR_AUC: 0.76094
+2025-10-09 14:35:53,879-Epoch 1 train day 47: NetCVR_AUC: 0.76812
+2025-10-09 14:35:53,879-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:36:07,084-Model saved at Epoch 1 , Day 47 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:36:07,098-Testing best model with test set!
+2025-10-09 14:36:15,464-stream_model_Global_CVR_AUC: 0.74999
+2025-10-09 14:36:15,465-stream_model_Global_NetCVR_AUC: 0.76459
+2025-10-09 14:36:15,465-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76324
+2025-10-09 14:36:15,465-stream_model_Global_CVR_NLL: 0.22679
+2025-10-09 14:36:15,465-stream_model_Global_NetCVR_NLL: 0.18426
+2025-10-09 14:36:15,465-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18412
+2025-10-09 14:36:15,465-stream_model_Global_CVR_PCOC: 0.86158
+2025-10-09 14:36:15,465-stream_model_Global_NetCVR_PCOC: 0.84273
+2025-10-09 14:36:15,465-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.13092
+2025-10-09 14:36:15,465-stream_model_Global_CVR_PRAUC: 0.21374
+2025-10-09 14:36:15,465-stream_model_Global_NetCVR_PRAUC: 0.19145
+2025-10-09 14:36:15,465-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.19054
+2025-10-09 14:36:15,465-pretrained_model_Global_CVR_AUC: 0.71832
+2025-10-09 14:36:15,465-pretrained_model_Global_NetCVR_AUC: 0.73693
+2025-10-09 14:36:15,465-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73332
+2025-10-09 14:36:15,465-pretrained_model_Global_CVR_NLL: 0.23524
+2025-10-09 14:36:15,465-pretrained_model_Global_NetCVR_NLL: 0.18970
+2025-10-09 14:36:15,465-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18928
+2025-10-09 14:36:15,465-pretrained_model_Global_CVR_PCOC: 0.78677
+2025-10-09 14:36:15,465-pretrained_model_Global_NetCVR_PCOC: 0.83462
+2025-10-09 14:36:15,465-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.03273
+2025-10-09 14:36:15,465-pretrained_model_Global_CVR_PRAUC: 0.19060
+2025-10-09 14:36:15,465-pretrained_model_Global_NetCVR_PRAUC: 0.17111
+2025-10-09 14:36:15,465-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16898
+2025-10-09 14:36:23,269-Epoch 1 Day 48- Mean Loss: 0.76071
+2025-10-09 14:36:23,270-Epoch 1 train day 48: CVR_AUC: 0.74662
+2025-10-09 14:36:23,270-Epoch 1 train day 48: NetCVR_AUC: 0.75430
+2025-10-09 14:36:23,270-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:36:36,135-Model saved at Epoch 1 , Day 48 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:36:36,142-Testing best model with test set!
+2025-10-09 14:36:44,557-stream_model_Global_CVR_AUC: 0.74606
+2025-10-09 14:36:44,558-stream_model_Global_NetCVR_AUC: 0.76012
+2025-10-09 14:36:44,558-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75841
+2025-10-09 14:36:44,558-stream_model_Global_CVR_NLL: 0.23149
+2025-10-09 14:36:44,558-stream_model_Global_NetCVR_NLL: 0.19025
+2025-10-09 14:36:44,558-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.19361
+2025-10-09 14:36:44,558-stream_model_Global_CVR_PCOC: 1.02915
+2025-10-09 14:36:44,558-stream_model_Global_NetCVR_PCOC: 0.99876
+2025-10-09 14:36:44,558-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.33130
+2025-10-09 14:36:44,558-stream_model_Global_CVR_PRAUC: 0.21361
+2025-10-09 14:36:44,558-stream_model_Global_NetCVR_PRAUC: 0.19087
+2025-10-09 14:36:44,558-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18898
+2025-10-09 14:36:44,558-pretrained_model_Global_CVR_AUC: 0.71171
+2025-10-09 14:36:44,558-pretrained_model_Global_NetCVR_AUC: 0.72923
+2025-10-09 14:36:44,558-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72526
+2025-10-09 14:36:44,558-pretrained_model_Global_CVR_NLL: 0.24186
+2025-10-09 14:36:44,558-pretrained_model_Global_NetCVR_NLL: 0.19757
+2025-10-09 14:36:44,558-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.19666
+2025-10-09 14:36:44,558-pretrained_model_Global_CVR_PCOC: 0.76031
+2025-10-09 14:36:44,558-pretrained_model_Global_NetCVR_PCOC: 0.79531
+2025-10-09 14:36:44,558-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 0.98353
+2025-10-09 14:36:44,558-pretrained_model_Global_CVR_PRAUC: 0.19059
+2025-10-09 14:36:44,558-pretrained_model_Global_NetCVR_PRAUC: 0.16975
+2025-10-09 14:36:44,558-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16752
+2025-10-09 14:36:52,445-Epoch 1 Day 49- Mean Loss: 0.77822
+2025-10-09 14:36:52,445-Epoch 1 train day 49: CVR_AUC: 0.74727
+2025-10-09 14:36:52,445-Epoch 1 train day 49: NetCVR_AUC: 0.75363
+2025-10-09 14:36:52,445-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:37:05,746-Model saved at Epoch 1 , Day 49 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:37:05,759-Testing best model with test set!
+2025-10-09 14:37:09,514-stream_model_Global_CVR_AUC: 0.75553
+2025-10-09 14:37:09,515-stream_model_Global_NetCVR_AUC: 0.76596
+2025-10-09 14:37:09,515-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76281
+2025-10-09 14:37:09,515-stream_model_Global_CVR_NLL: 0.21329
+2025-10-09 14:37:09,515-stream_model_Global_NetCVR_NLL: 0.17367
+2025-10-09 14:37:09,515-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18220
+2025-10-09 14:37:09,515-stream_model_Global_CVR_PCOC: 1.32459
+2025-10-09 14:37:09,515-stream_model_Global_NetCVR_PCOC: 1.33549
+2025-10-09 14:37:09,515-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.73905
+2025-10-09 14:37:09,515-stream_model_Global_CVR_PRAUC: 0.19809
+2025-10-09 14:37:09,515-stream_model_Global_NetCVR_PRAUC: 0.17297
+2025-10-09 14:37:09,515-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17052
+2025-10-09 14:37:09,515-pretrained_model_Global_CVR_AUC: 0.71948
+2025-10-09 14:37:09,515-pretrained_model_Global_NetCVR_AUC: 0.73472
+2025-10-09 14:37:09,515-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73146
+2025-10-09 14:37:09,515-pretrained_model_Global_CVR_NLL: 0.21865
+2025-10-09 14:37:09,515-pretrained_model_Global_NetCVR_NLL: 0.17670
+2025-10-09 14:37:09,515-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17645
+2025-10-09 14:37:09,515-pretrained_model_Global_CVR_PCOC: 0.79909
+2025-10-09 14:37:09,515-pretrained_model_Global_NetCVR_PCOC: 0.84333
+2025-10-09 14:37:09,516-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.04913
+2025-10-09 14:37:09,516-pretrained_model_Global_CVR_PRAUC: 0.17442
+2025-10-09 14:37:09,516-pretrained_model_Global_NetCVR_PRAUC: 0.15200
+2025-10-09 14:37:09,516-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15036
+2025-10-09 14:37:13,556-Epoch 1 Day 50- Mean Loss: 0.71485
+2025-10-09 14:37:13,557-Epoch 1 train day 50: CVR_AUC: 0.75922
+2025-10-09 14:37:13,557-Epoch 1 train day 50: NetCVR_AUC: 0.76287
+2025-10-09 14:37:13,557-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:37:26,404-Model saved at Epoch 1 , Day 50 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:37:26,411-Testing best model with test set!
+2025-10-09 14:37:28,167-stream_model_Global_CVR_AUC: 0.75516
+2025-10-09 14:37:28,168-stream_model_Global_NetCVR_AUC: 0.76269
+2025-10-09 14:37:28,168-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76026
+2025-10-09 14:37:28,168-stream_model_Global_CVR_NLL: 0.20389
+2025-10-09 14:37:28,168-stream_model_Global_NetCVR_NLL: 0.16706
+2025-10-09 14:37:28,168-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16879
+2025-10-09 14:37:28,168-stream_model_Global_CVR_PCOC: 0.94637
+2025-10-09 14:37:28,168-stream_model_Global_NetCVR_PCOC: 0.98390
+2025-10-09 14:37:28,168-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.23749
+2025-10-09 14:37:28,168-stream_model_Global_CVR_PRAUC: 0.18852
+2025-10-09 14:37:28,168-stream_model_Global_NetCVR_PRAUC: 0.16047
+2025-10-09 14:37:28,168-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15522
+2025-10-09 14:37:28,168-pretrained_model_Global_CVR_AUC: 0.72076
+2025-10-09 14:37:28,168-pretrained_model_Global_NetCVR_AUC: 0.73363
+2025-10-09 14:37:28,168-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72956
+2025-10-09 14:37:28,168-pretrained_model_Global_CVR_NLL: 0.21179
+2025-10-09 14:37:28,168-pretrained_model_Global_NetCVR_NLL: 0.17267
+2025-10-09 14:37:28,168-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17305
+2025-10-09 14:37:28,168-pretrained_model_Global_CVR_PCOC: 0.85547
+2025-10-09 14:37:28,168-pretrained_model_Global_NetCVR_PCOC: 0.89624
+2025-10-09 14:37:28,168-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.11863
+2025-10-09 14:37:28,168-pretrained_model_Global_CVR_PRAUC: 0.17081
+2025-10-09 14:37:28,168-pretrained_model_Global_NetCVR_PRAUC: 0.14612
+2025-10-09 14:37:28,169-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14492
+2025-10-09 14:37:30,015-Epoch 1 Day 51- Mean Loss: 0.68320
+2025-10-09 14:37:30,015-Epoch 1 train day 51: CVR_AUC: 0.76731
+2025-10-09 14:37:30,015-Epoch 1 train day 51: NetCVR_AUC: 0.76484
+2025-10-09 14:37:30,015-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:37:42,939-Model saved at Epoch 1 , Day 51 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:37:42,946-Testing best model with test set!
+2025-10-09 14:37:46,158-stream_model_Global_CVR_AUC: 0.76733
+2025-10-09 14:37:46,158-stream_model_Global_NetCVR_AUC: 0.77774
+2025-10-09 14:37:46,159-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.77445
+2025-10-09 14:37:46,159-stream_model_Global_CVR_NLL: 0.19510
+2025-10-09 14:37:46,159-stream_model_Global_NetCVR_NLL: 0.15801
+2025-10-09 14:37:46,159-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.15961
+2025-10-09 14:37:46,159-stream_model_Global_CVR_PCOC: 0.92564
+2025-10-09 14:37:46,159-stream_model_Global_NetCVR_PCOC: 0.97594
+2025-10-09 14:37:46,159-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.22227
+2025-10-09 14:37:46,159-stream_model_Global_CVR_PRAUC: 0.19138
+2025-10-09 14:37:46,159-stream_model_Global_NetCVR_PRAUC: 0.16459
+2025-10-09 14:37:46,159-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16163
+2025-10-09 14:37:46,159-pretrained_model_Global_CVR_AUC: 0.73587
+2025-10-09 14:37:46,159-pretrained_model_Global_NetCVR_AUC: 0.75081
+2025-10-09 14:37:46,159-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74624
+2025-10-09 14:37:46,159-pretrained_model_Global_CVR_NLL: 0.20128
+2025-10-09 14:37:46,159-pretrained_model_Global_NetCVR_NLL: 0.16217
+2025-10-09 14:37:46,159-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16362
+2025-10-09 14:37:46,159-pretrained_model_Global_CVR_PCOC: 0.90939
+2025-10-09 14:37:46,159-pretrained_model_Global_NetCVR_PCOC: 0.96460
+2025-10-09 14:37:46,159-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.20081
+2025-10-09 14:37:46,159-pretrained_model_Global_CVR_PRAUC: 0.17530
+2025-10-09 14:37:46,159-pretrained_model_Global_NetCVR_PRAUC: 0.15329
+2025-10-09 14:37:46,159-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15084
+2025-10-09 14:37:49,035-Epoch 1 Day 52- Mean Loss: 0.64361
+2025-10-09 14:37:49,035-Epoch 1 train day 52: CVR_AUC: 0.76399
+2025-10-09 14:37:49,035-Epoch 1 train day 52: NetCVR_AUC: 0.77235
+2025-10-09 14:37:49,035-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:38:02,028-Model saved at Epoch 1 , Day 52 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:38:02,036-Testing best model with test set!
+2025-10-09 14:38:10,268-stream_model_Global_CVR_AUC: 0.76234
+2025-10-09 14:38:10,268-stream_model_Global_NetCVR_AUC: 0.77238
+2025-10-09 14:38:10,268-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76968
+2025-10-09 14:38:10,268-stream_model_Global_CVR_NLL: 0.20636
+2025-10-09 14:38:10,268-stream_model_Global_NetCVR_NLL: 0.16896
+2025-10-09 14:38:10,268-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16707
+2025-10-09 14:38:10,268-stream_model_Global_CVR_PCOC: 0.76009
+2025-10-09 14:38:10,268-stream_model_Global_NetCVR_PCOC: 0.73013
+2025-10-09 14:38:10,268-stream_model_Global_NetCVR_PCOC_by_cvr_head: 0.99495
+2025-10-09 14:38:10,268-stream_model_Global_CVR_PRAUC: 0.19635
+2025-10-09 14:38:10,268-stream_model_Global_NetCVR_PRAUC: 0.17108
+2025-10-09 14:38:10,268-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16901
+2025-10-09 14:38:10,268-pretrained_model_Global_CVR_AUC: 0.73241
+2025-10-09 14:38:10,268-pretrained_model_Global_NetCVR_AUC: 0.74500
+2025-10-09 14:38:10,268-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74224
+2025-10-09 14:38:10,268-pretrained_model_Global_CVR_NLL: 0.21183
+2025-10-09 14:38:10,269-pretrained_model_Global_NetCVR_NLL: 0.17204
+2025-10-09 14:38:10,269-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17190
+2025-10-09 14:38:10,269-pretrained_model_Global_CVR_PCOC: 0.80971
+2025-10-09 14:38:10,269-pretrained_model_Global_NetCVR_PCOC: 0.85149
+2025-10-09 14:38:10,269-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.05992
+2025-10-09 14:38:10,269-pretrained_model_Global_CVR_PRAUC: 0.17624
+2025-10-09 14:38:10,269-pretrained_model_Global_NetCVR_PRAUC: 0.15301
+2025-10-09 14:38:10,269-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15087
+2025-10-09 14:38:17,169-Epoch 1 Day 53- Mean Loss: 0.64904
+2025-10-09 14:38:17,169-Epoch 1 train day 53: CVR_AUC: 0.77126
+2025-10-09 14:38:17,169-Epoch 1 train day 53: NetCVR_AUC: 0.77724
+2025-10-09 14:38:17,169-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:38:30,482-Model saved at Epoch 1 , Day 53 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:38:30,488-Testing best model with test set!
+2025-10-09 14:38:40,285-stream_model_Global_CVR_AUC: 0.77441
+2025-10-09 14:38:40,285-stream_model_Global_NetCVR_AUC: 0.78461
+2025-10-09 14:38:40,285-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.78310
+2025-10-09 14:38:40,285-stream_model_Global_CVR_NLL: 0.20076
+2025-10-09 14:38:40,285-stream_model_Global_NetCVR_NLL: 0.16354
+2025-10-09 14:38:40,285-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16627
+2025-10-09 14:38:40,285-stream_model_Global_CVR_PCOC: 1.01726
+2025-10-09 14:38:40,285-stream_model_Global_NetCVR_PCOC: 1.00940
+2025-10-09 14:38:40,285-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.33475
+2025-10-09 14:38:40,285-stream_model_Global_CVR_PRAUC: 0.20690
+2025-10-09 14:38:40,285-stream_model_Global_NetCVR_PRAUC: 0.18183
+2025-10-09 14:38:40,286-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18010
+2025-10-09 14:38:40,286-pretrained_model_Global_CVR_AUC: 0.73472
+2025-10-09 14:38:40,286-pretrained_model_Global_NetCVR_AUC: 0.74955
+2025-10-09 14:38:40,286-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74685
+2025-10-09 14:38:40,286-pretrained_model_Global_CVR_NLL: 0.21129
+2025-10-09 14:38:40,286-pretrained_model_Global_NetCVR_NLL: 0.17075
+2025-10-09 14:38:40,286-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17065
+2025-10-09 14:38:40,286-pretrained_model_Global_CVR_PCOC: 0.81708
+2025-10-09 14:38:40,286-pretrained_model_Global_NetCVR_PCOC: 0.86455
+2025-10-09 14:38:40,286-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.07210
+2025-10-09 14:38:40,286-pretrained_model_Global_CVR_PRAUC: 0.17371
+2025-10-09 14:38:40,286-pretrained_model_Global_NetCVR_PRAUC: 0.15262
+2025-10-09 14:38:40,286-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15150
+2025-10-09 14:38:49,491-Epoch 1 Day 54- Mean Loss: 0.66496
+2025-10-09 14:38:49,491-Epoch 1 train day 54: CVR_AUC: 0.78030
+2025-10-09 14:38:49,491-Epoch 1 train day 54: NetCVR_AUC: 0.78175
+2025-10-09 14:38:49,491-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:39:02,459-Model saved at Epoch 1 , Day 54 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:39:02,466-Testing best model with test set!
+2025-10-09 14:39:11,522-stream_model_Global_CVR_AUC: 0.76572
+2025-10-09 14:39:11,522-stream_model_Global_NetCVR_AUC: 0.77682
+2025-10-09 14:39:11,522-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.77516
+2025-10-09 14:39:11,523-stream_model_Global_CVR_NLL: 0.20803
+2025-10-09 14:39:11,523-stream_model_Global_NetCVR_NLL: 0.16927
+2025-10-09 14:39:11,523-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17322
+2025-10-09 14:39:11,523-stream_model_Global_CVR_PCOC: 1.07791
+2025-10-09 14:39:11,523-stream_model_Global_NetCVR_PCOC: 1.08793
+2025-10-09 14:39:11,523-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.41627
+2025-10-09 14:39:11,523-stream_model_Global_CVR_PRAUC: 0.20859
+2025-10-09 14:39:11,523-stream_model_Global_NetCVR_PRAUC: 0.18318
+2025-10-09 14:39:11,523-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18103
+2025-10-09 14:39:11,523-pretrained_model_Global_CVR_AUC: 0.72594
+2025-10-09 14:39:11,523-pretrained_model_Global_NetCVR_AUC: 0.74068
+2025-10-09 14:39:11,523-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73882
+2025-10-09 14:39:11,523-pretrained_model_Global_CVR_NLL: 0.21732
+2025-10-09 14:39:11,523-pretrained_model_Global_NetCVR_NLL: 0.17565
+2025-10-09 14:39:11,523-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17545
+2025-10-09 14:39:11,523-pretrained_model_Global_CVR_PCOC: 0.82057
+2025-10-09 14:39:11,523-pretrained_model_Global_NetCVR_PCOC: 0.86984
+2025-10-09 14:39:11,523-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.07814
+2025-10-09 14:39:11,523-pretrained_model_Global_CVR_PRAUC: 0.18544
+2025-10-09 14:39:11,523-pretrained_model_Global_NetCVR_PRAUC: 0.16382
+2025-10-09 14:39:11,523-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16338
+2025-10-09 14:39:19,827-Epoch 1 Day 55- Mean Loss: 0.68797
+2025-10-09 14:39:19,827-Epoch 1 train day 55: CVR_AUC: 0.77106
+2025-10-09 14:39:19,827-Epoch 1 train day 55: NetCVR_AUC: 0.77407
+2025-10-09 14:39:19,827-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:39:32,933-Model saved at Epoch 1 , Day 55 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:39:32,946-Testing best model with test set!
+2025-10-09 14:39:42,749-stream_model_Global_CVR_AUC: 0.76422
+2025-10-09 14:39:42,749-stream_model_Global_NetCVR_AUC: 0.77707
+2025-10-09 14:39:42,749-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.77500
+2025-10-09 14:39:42,749-stream_model_Global_CVR_NLL: 0.20031
+2025-10-09 14:39:42,749-stream_model_Global_NetCVR_NLL: 0.16183
+2025-10-09 14:39:42,749-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16541
+2025-10-09 14:39:42,749-stream_model_Global_CVR_PCOC: 1.05578
+2025-10-09 14:39:42,749-stream_model_Global_NetCVR_PCOC: 1.05821
+2025-10-09 14:39:42,749-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.39379
+2025-10-09 14:39:42,749-stream_model_Global_CVR_PRAUC: 0.19955
+2025-10-09 14:39:42,749-stream_model_Global_NetCVR_PRAUC: 0.17575
+2025-10-09 14:39:42,749-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17374
+2025-10-09 14:39:42,749-pretrained_model_Global_CVR_AUC: 0.72506
+2025-10-09 14:39:42,749-pretrained_model_Global_NetCVR_AUC: 0.74188
+2025-10-09 14:39:42,749-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73879
+2025-10-09 14:39:42,749-pretrained_model_Global_CVR_NLL: 0.20929
+2025-10-09 14:39:42,750-pretrained_model_Global_NetCVR_NLL: 0.16816
+2025-10-09 14:39:42,750-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16864
+2025-10-09 14:39:42,750-pretrained_model_Global_CVR_PCOC: 0.85400
+2025-10-09 14:39:42,750-pretrained_model_Global_NetCVR_PCOC: 0.90716
+2025-10-09 14:39:42,750-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.12741
+2025-10-09 14:39:42,750-pretrained_model_Global_CVR_PRAUC: 0.17329
+2025-10-09 14:39:42,750-pretrained_model_Global_NetCVR_PRAUC: 0.15265
+2025-10-09 14:39:42,750-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15134
+2025-10-09 14:39:51,033-Epoch 1 Day 56- Mean Loss: 0.68394
+2025-10-09 14:39:51,033-Epoch 1 train day 56: CVR_AUC: 0.77554
+2025-10-09 14:39:51,033-Epoch 1 train day 56: NetCVR_AUC: 0.77893
+2025-10-09 14:39:51,033-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:40:03,921-Model saved at Epoch 1 , Day 56 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:40:03,928-Testing best model with test set!
+2025-10-09 14:40:12,367-stream_model_Global_CVR_AUC: 0.75420
+2025-10-09 14:40:12,367-stream_model_Global_NetCVR_AUC: 0.76923
+2025-10-09 14:40:12,367-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76799
+2025-10-09 14:40:12,367-stream_model_Global_CVR_NLL: 0.20670
+2025-10-09 14:40:12,367-stream_model_Global_NetCVR_NLL: 0.16649
+2025-10-09 14:40:12,367-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16965
+2025-10-09 14:40:12,367-stream_model_Global_CVR_PCOC: 1.03615
+2025-10-09 14:40:12,367-stream_model_Global_NetCVR_PCOC: 1.03799
+2025-10-09 14:40:12,368-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.36884
+2025-10-09 14:40:12,368-stream_model_Global_CVR_PRAUC: 0.20240
+2025-10-09 14:40:12,368-stream_model_Global_NetCVR_PRAUC: 0.18149
+2025-10-09 14:40:12,368-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18035
+2025-10-09 14:40:12,368-pretrained_model_Global_CVR_AUC: 0.71834
+2025-10-09 14:40:12,368-pretrained_model_Global_NetCVR_AUC: 0.73727
+2025-10-09 14:40:12,368-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73401
+2025-10-09 14:40:12,368-pretrained_model_Global_CVR_NLL: 0.21477
+2025-10-09 14:40:12,368-pretrained_model_Global_NetCVR_NLL: 0.17216
+2025-10-09 14:40:12,368-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17275
+2025-10-09 14:40:12,368-pretrained_model_Global_CVR_PCOC: 0.85050
+2025-10-09 14:40:12,368-pretrained_model_Global_NetCVR_PCOC: 0.90225
+2025-10-09 14:40:12,368-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.12357
+2025-10-09 14:40:12,368-pretrained_model_Global_CVR_PRAUC: 0.17681
+2025-10-09 14:40:12,368-pretrained_model_Global_NetCVR_PRAUC: 0.15771
+2025-10-09 14:40:12,368-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15574
+2025-10-09 14:40:19,205-Epoch 1 Day 57- Mean Loss: 0.68808
+2025-10-09 14:40:19,206-Epoch 1 train day 57: CVR_AUC: 0.76337
+2025-10-09 14:40:19,206-Epoch 1 train day 57: NetCVR_AUC: 0.77182
+2025-10-09 14:40:19,206-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:40:32,188-Model saved at Epoch 1 , Day 57 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:40:32,195-Testing best model with test set!
+2025-10-09 14:40:39,887-stream_model_Global_CVR_AUC: 0.74926
+2025-10-09 14:40:39,887-stream_model_Global_NetCVR_AUC: 0.76489
+2025-10-09 14:40:39,888-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76337
+2025-10-09 14:40:39,888-stream_model_Global_CVR_NLL: 0.22423
+2025-10-09 14:40:39,888-stream_model_Global_NetCVR_NLL: 0.17978
+2025-10-09 14:40:39,888-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17978
+2025-10-09 14:40:39,888-stream_model_Global_CVR_PCOC: 0.85695
+2025-10-09 14:40:39,888-stream_model_Global_NetCVR_PCOC: 0.87126
+2025-10-09 14:40:39,888-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.14047
+2025-10-09 14:40:39,888-stream_model_Global_CVR_PRAUC: 0.20805
+2025-10-09 14:40:39,888-stream_model_Global_NetCVR_PRAUC: 0.18574
+2025-10-09 14:40:39,888-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18481
+2025-10-09 14:40:39,888-pretrained_model_Global_CVR_AUC: 0.71316
+2025-10-09 14:40:39,888-pretrained_model_Global_NetCVR_AUC: 0.73144
+2025-10-09 14:40:39,888-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72761
+2025-10-09 14:40:39,888-pretrained_model_Global_CVR_NLL: 0.23255
+2025-10-09 14:40:39,888-pretrained_model_Global_NetCVR_NLL: 0.18562
+2025-10-09 14:40:39,888-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18574
+2025-10-09 14:40:39,888-pretrained_model_Global_CVR_PCOC: 0.81007
+2025-10-09 14:40:39,888-pretrained_model_Global_NetCVR_PCOC: 0.86745
+2025-10-09 14:40:39,888-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.07809
+2025-10-09 14:40:39,888-pretrained_model_Global_CVR_PRAUC: 0.18325
+2025-10-09 14:40:39,888-pretrained_model_Global_NetCVR_PRAUC: 0.16105
+2025-10-09 14:40:39,888-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15888
+2025-10-09 14:40:46,979-Epoch 1 Day 58- Mean Loss: 0.76285
+2025-10-09 14:40:46,979-Epoch 1 train day 58: CVR_AUC: 0.73997
+2025-10-09 14:40:46,979-Epoch 1 train day 58: NetCVR_AUC: 0.74841
+2025-10-09 14:40:46,979-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:41:00,423-Model saved at Epoch 1 , Day 58 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:41:00,430-Testing best model with test set!
+2025-10-09 14:41:08,142-stream_model_Global_CVR_AUC: 0.74747
+2025-10-09 14:41:08,143-stream_model_Global_NetCVR_AUC: 0.76158
+2025-10-09 14:41:08,143-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75929
+2025-10-09 14:41:08,143-stream_model_Global_CVR_NLL: 0.22380
+2025-10-09 14:41:08,143-stream_model_Global_NetCVR_NLL: 0.18213
+2025-10-09 14:41:08,143-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.18387
+2025-10-09 14:41:08,143-stream_model_Global_CVR_PCOC: 0.96113
+2025-10-09 14:41:08,143-stream_model_Global_NetCVR_PCOC: 0.96908
+2025-10-09 14:41:08,143-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.25883
+2025-10-09 14:41:08,143-stream_model_Global_CVR_PRAUC: 0.20663
+2025-10-09 14:41:08,143-stream_model_Global_NetCVR_PRAUC: 0.18252
+2025-10-09 14:41:08,143-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18145
+2025-10-09 14:41:08,143-pretrained_model_Global_CVR_AUC: 0.71308
+2025-10-09 14:41:08,143-pretrained_model_Global_NetCVR_AUC: 0.73028
+2025-10-09 14:41:08,143-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72624
+2025-10-09 14:41:08,143-pretrained_model_Global_CVR_NLL: 0.23256
+2025-10-09 14:41:08,143-pretrained_model_Global_NetCVR_NLL: 0.18806
+2025-10-09 14:41:08,143-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18763
+2025-10-09 14:41:08,143-pretrained_model_Global_CVR_PCOC: 0.78429
+2025-10-09 14:41:08,143-pretrained_model_Global_NetCVR_PCOC: 0.82698
+2025-10-09 14:41:08,143-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.02722
+2025-10-09 14:41:08,143-pretrained_model_Global_CVR_PRAUC: 0.18233
+2025-10-09 14:41:08,143-pretrained_model_Global_NetCVR_PRAUC: 0.15968
+2025-10-09 14:41:08,143-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15814
+2025-10-09 14:41:15,944-Epoch 1 Day 59- Mean Loss: 0.76115
+2025-10-09 14:41:15,944-Epoch 1 train day 59: CVR_AUC: 0.75231
+2025-10-09 14:41:15,944-Epoch 1 train day 59: NetCVR_AUC: 0.75792
+2025-10-09 14:41:15,944-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:41:28,800-Model saved at Epoch 1 , Day 59 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:41:28,807-Testing best model with test set!
+2025-10-09 14:41:32,767-stream_model_Global_CVR_AUC: 0.75838
+2025-10-09 14:41:32,767-stream_model_Global_NetCVR_AUC: 0.76633
+2025-10-09 14:41:32,767-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76434
+2025-10-09 14:41:32,767-stream_model_Global_CVR_NLL: 0.20029
+2025-10-09 14:41:32,767-stream_model_Global_NetCVR_NLL: 0.16236
+2025-10-09 14:41:32,768-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16857
+2025-10-09 14:41:32,768-stream_model_Global_CVR_PCOC: 1.23517
+2025-10-09 14:41:32,768-stream_model_Global_NetCVR_PCOC: 1.27055
+2025-10-09 14:41:32,768-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.64031
+2025-10-09 14:41:32,768-stream_model_Global_CVR_PRAUC: 0.18711
+2025-10-09 14:41:32,768-stream_model_Global_NetCVR_PRAUC: 0.15885
+2025-10-09 14:41:32,768-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15642
+2025-10-09 14:41:32,768-pretrained_model_Global_CVR_AUC: 0.71592
+2025-10-09 14:41:32,768-pretrained_model_Global_NetCVR_AUC: 0.73048
+2025-10-09 14:41:32,768-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.72785
+2025-10-09 14:41:32,768-pretrained_model_Global_CVR_NLL: 0.20766
+2025-10-09 14:41:32,768-pretrained_model_Global_NetCVR_NLL: 0.16642
+2025-10-09 14:41:32,768-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16676
+2025-10-09 14:41:32,768-pretrained_model_Global_CVR_PCOC: 0.83455
+2025-10-09 14:41:32,768-pretrained_model_Global_NetCVR_PCOC: 0.89043
+2025-10-09 14:41:32,768-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.10828
+2025-10-09 14:41:32,768-pretrained_model_Global_CVR_PRAUC: 0.15962
+2025-10-09 14:41:32,768-pretrained_model_Global_NetCVR_PRAUC: 0.13705
+2025-10-09 14:41:32,768-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13488
+2025-10-09 14:41:36,948-Epoch 1 Day 60- Mean Loss: 0.72137
+2025-10-09 14:41:36,948-Epoch 1 train day 60: CVR_AUC: 0.75991
+2025-10-09 14:41:36,948-Epoch 1 train day 60: NetCVR_AUC: 0.76275
+2025-10-09 14:41:36,949-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:41:49,918-Model saved at Epoch 1 , Day 60 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:41:49,925-Testing best model with test set!
+2025-10-09 14:41:51,749-stream_model_Global_CVR_AUC: 0.77202
+2025-10-09 14:41:51,750-stream_model_Global_NetCVR_AUC: 0.78084
+2025-10-09 14:41:51,750-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.77838
+2025-10-09 14:41:51,750-stream_model_Global_CVR_NLL: 0.19444
+2025-10-09 14:41:51,750-stream_model_Global_NetCVR_NLL: 0.15848
+2025-10-09 14:41:51,750-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16064
+2025-10-09 14:41:51,750-stream_model_Global_CVR_PCOC: 0.97181
+2025-10-09 14:41:51,750-stream_model_Global_NetCVR_PCOC: 1.01491
+2025-10-09 14:41:51,750-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.27539
+2025-10-09 14:41:51,750-stream_model_Global_CVR_PRAUC: 0.17515
+2025-10-09 14:41:51,750-stream_model_Global_NetCVR_PRAUC: 0.14918
+2025-10-09 14:41:51,750-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14618
+2025-10-09 14:41:51,750-pretrained_model_Global_CVR_AUC: 0.74244
+2025-10-09 14:41:51,750-pretrained_model_Global_NetCVR_AUC: 0.75233
+2025-10-09 14:41:51,750-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.75053
+2025-10-09 14:41:51,750-pretrained_model_Global_CVR_NLL: 0.20160
+2025-10-09 14:41:51,750-pretrained_model_Global_NetCVR_NLL: 0.16385
+2025-10-09 14:41:51,751-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16427
+2025-10-09 14:41:51,751-pretrained_model_Global_CVR_PCOC: 0.86886
+2025-10-09 14:41:51,751-pretrained_model_Global_NetCVR_PCOC: 0.91767
+2025-10-09 14:41:51,751-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.14027
+2025-10-09 14:41:51,751-pretrained_model_Global_CVR_PRAUC: 0.15435
+2025-10-09 14:41:51,751-pretrained_model_Global_NetCVR_PRAUC: 0.13149
+2025-10-09 14:41:51,751-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.13019
+2025-10-09 14:41:53,697-Epoch 1 Day 61- Mean Loss: 0.65629
+2025-10-09 14:41:53,697-Epoch 1 train day 61: CVR_AUC: 0.77491
+2025-10-09 14:41:53,697-Epoch 1 train day 61: NetCVR_AUC: 0.77797
+2025-10-09 14:41:53,697-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:42:06,996-Model saved at Epoch 1 , Day 61 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:42:07,003-Testing best model with test set!
+2025-10-09 14:42:10,118-stream_model_Global_CVR_AUC: 0.75460
+2025-10-09 14:42:10,118-stream_model_Global_NetCVR_AUC: 0.76550
+2025-10-09 14:42:10,118-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76243
+2025-10-09 14:42:10,118-stream_model_Global_CVR_NLL: 0.20713
+2025-10-09 14:42:10,118-stream_model_Global_NetCVR_NLL: 0.16498
+2025-10-09 14:42:10,118-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16624
+2025-10-09 14:42:10,118-stream_model_Global_CVR_PCOC: 0.87614
+2025-10-09 14:42:10,118-stream_model_Global_NetCVR_PCOC: 0.93520
+2025-10-09 14:42:10,118-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.18172
+2025-10-09 14:42:10,118-stream_model_Global_CVR_PRAUC: 0.18779
+2025-10-09 14:42:10,118-stream_model_Global_NetCVR_PRAUC: 0.16030
+2025-10-09 14:42:10,118-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15694
+2025-10-09 14:42:10,118-pretrained_model_Global_CVR_AUC: 0.72914
+2025-10-09 14:42:10,118-pretrained_model_Global_NetCVR_AUC: 0.74836
+2025-10-09 14:42:10,118-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74496
+2025-10-09 14:42:10,118-pretrained_model_Global_CVR_NLL: 0.21288
+2025-10-09 14:42:10,119-pretrained_model_Global_NetCVR_NLL: 0.16818
+2025-10-09 14:42:10,119-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16912
+2025-10-09 14:42:10,119-pretrained_model_Global_CVR_PCOC: 0.85886
+2025-10-09 14:42:10,119-pretrained_model_Global_NetCVR_PCOC: 0.92994
+2025-10-09 14:42:10,119-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.15842
+2025-10-09 14:42:10,119-pretrained_model_Global_CVR_PRAUC: 0.17284
+2025-10-09 14:42:10,119-pretrained_model_Global_NetCVR_PRAUC: 0.15003
+2025-10-09 14:42:10,119-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14771
+2025-10-09 14:42:12,727-Epoch 1 Day 62- Mean Loss: 0.66154
+2025-10-09 14:42:12,727-Epoch 1 train day 62: CVR_AUC: 0.76069
+2025-10-09 14:42:12,727-Epoch 1 train day 62: NetCVR_AUC: 0.76738
+2025-10-09 14:42:12,727-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:42:26,201-Model saved at Epoch 1 , Day 62 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:42:26,208-Testing best model with test set!
+2025-10-09 14:42:33,353-stream_model_Global_CVR_AUC: 0.76261
+2025-10-09 14:42:33,353-stream_model_Global_NetCVR_AUC: 0.77260
+2025-10-09 14:42:33,354-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76949
+2025-10-09 14:42:33,354-stream_model_Global_CVR_NLL: 0.20383
+2025-10-09 14:42:33,354-stream_model_Global_NetCVR_NLL: 0.16545
+2025-10-09 14:42:33,354-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16405
+2025-10-09 14:42:33,354-stream_model_Global_CVR_PCOC: 0.75450
+2025-10-09 14:42:33,354-stream_model_Global_NetCVR_PCOC: 0.74735
+2025-10-09 14:42:33,354-stream_model_Global_NetCVR_PCOC_by_cvr_head: 0.99379
+2025-10-09 14:42:33,354-stream_model_Global_CVR_PRAUC: 0.19616
+2025-10-09 14:42:33,354-stream_model_Global_NetCVR_PRAUC: 0.17291
+2025-10-09 14:42:33,354-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17044
+2025-10-09 14:42:33,354-pretrained_model_Global_CVR_AUC: 0.72912
+2025-10-09 14:42:33,354-pretrained_model_Global_NetCVR_AUC: 0.74320
+2025-10-09 14:42:33,354-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74056
+2025-10-09 14:42:33,354-pretrained_model_Global_CVR_NLL: 0.20977
+2025-10-09 14:42:33,354-pretrained_model_Global_NetCVR_NLL: 0.16914
+2025-10-09 14:42:33,354-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16914
+2025-10-09 14:42:33,354-pretrained_model_Global_CVR_PCOC: 0.81973
+2025-10-09 14:42:33,354-pretrained_model_Global_NetCVR_PCOC: 0.86717
+2025-10-09 14:42:33,354-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.07971
+2025-10-09 14:42:33,354-pretrained_model_Global_CVR_PRAUC: 0.17487
+2025-10-09 14:42:33,354-pretrained_model_Global_NetCVR_PRAUC: 0.15392
+2025-10-09 14:42:33,354-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15264
+2025-10-09 14:42:40,807-Epoch 1 Day 63- Mean Loss: 0.64635
+2025-10-09 14:42:40,807-Epoch 1 train day 63: CVR_AUC: 0.76984
+2025-10-09 14:42:40,807-Epoch 1 train day 63: NetCVR_AUC: 0.77508
+2025-10-09 14:42:40,807-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:42:53,793-Model saved at Epoch 1 , Day 63 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:42:53,812-Testing best model with test set!
+2025-10-09 14:43:02,940-stream_model_Global_CVR_AUC: 0.77601
+2025-10-09 14:43:02,941-stream_model_Global_NetCVR_AUC: 0.78770
+2025-10-09 14:43:02,941-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.78606
+2025-10-09 14:43:02,941-stream_model_Global_CVR_NLL: 0.20304
+2025-10-09 14:43:02,941-stream_model_Global_NetCVR_NLL: 0.16466
+2025-10-09 14:43:02,941-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16429
+2025-10-09 14:43:02,941-stream_model_Global_CVR_PCOC: 0.84025
+2025-10-09 14:43:02,941-stream_model_Global_NetCVR_PCOC: 0.81930
+2025-10-09 14:43:02,941-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.10861
+2025-10-09 14:43:02,941-stream_model_Global_CVR_PRAUC: 0.21496
+2025-10-09 14:43:02,941-stream_model_Global_NetCVR_PRAUC: 0.18938
+2025-10-09 14:43:02,941-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18717
+2025-10-09 14:43:02,941-pretrained_model_Global_CVR_AUC: 0.73812
+2025-10-09 14:43:02,941-pretrained_model_Global_NetCVR_AUC: 0.75372
+2025-10-09 14:43:02,941-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.75084
+2025-10-09 14:43:02,941-pretrained_model_Global_CVR_NLL: 0.21237
+2025-10-09 14:43:02,941-pretrained_model_Global_NetCVR_NLL: 0.17078
+2025-10-09 14:43:02,941-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17049
+2025-10-09 14:43:02,941-pretrained_model_Global_CVR_PCOC: 0.79255
+2025-10-09 14:43:02,941-pretrained_model_Global_NetCVR_PCOC: 0.83974
+2025-10-09 14:43:02,941-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.04568
+2025-10-09 14:43:02,941-pretrained_model_Global_CVR_PRAUC: 0.18601
+2025-10-09 14:43:02,941-pretrained_model_Global_NetCVR_PRAUC: 0.16572
+2025-10-09 14:43:02,941-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16354
+2025-10-09 14:43:11,536-Epoch 1 Day 64- Mean Loss: 0.65180
+2025-10-09 14:43:11,536-Epoch 1 train day 64: CVR_AUC: 0.78349
+2025-10-09 14:43:11,536-Epoch 1 train day 64: NetCVR_AUC: 0.78697
+2025-10-09 14:43:11,536-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:43:24,434-Model saved at Epoch 1 , Day 64 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:43:24,442-Testing best model with test set!
+2025-10-09 14:43:33,601-stream_model_Global_CVR_AUC: 0.77849
+2025-10-09 14:43:33,601-stream_model_Global_NetCVR_AUC: 0.78926
+2025-10-09 14:43:33,601-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.78746
+2025-10-09 14:43:33,601-stream_model_Global_CVR_NLL: 0.19867
+2025-10-09 14:43:33,601-stream_model_Global_NetCVR_NLL: 0.16147
+2025-10-09 14:43:33,601-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16462
+2025-10-09 14:43:33,602-stream_model_Global_CVR_PCOC: 1.04256
+2025-10-09 14:43:33,602-stream_model_Global_NetCVR_PCOC: 1.06321
+2025-10-09 14:43:33,602-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.37217
+2025-10-09 14:43:33,602-stream_model_Global_CVR_PRAUC: 0.20987
+2025-10-09 14:43:33,602-stream_model_Global_NetCVR_PRAUC: 0.18280
+2025-10-09 14:43:33,602-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18131
+2025-10-09 14:43:33,602-pretrained_model_Global_CVR_AUC: 0.74017
+2025-10-09 14:43:33,602-pretrained_model_Global_NetCVR_AUC: 0.75529
+2025-10-09 14:43:33,602-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.75195
+2025-10-09 14:43:33,602-pretrained_model_Global_CVR_NLL: 0.20826
+2025-10-09 14:43:33,602-pretrained_model_Global_NetCVR_NLL: 0.16802
+2025-10-09 14:43:33,602-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16814
+2025-10-09 14:43:33,602-pretrained_model_Global_CVR_PCOC: 0.82343
+2025-10-09 14:43:33,602-pretrained_model_Global_NetCVR_PCOC: 0.87105
+2025-10-09 14:43:33,602-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.08375
+2025-10-09 14:43:33,602-pretrained_model_Global_CVR_PRAUC: 0.18047
+2025-10-09 14:43:33,602-pretrained_model_Global_NetCVR_PRAUC: 0.15743
+2025-10-09 14:43:33,602-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15574
+2025-10-09 14:43:42,008-Epoch 1 Day 65- Mean Loss: 0.64827
+2025-10-09 14:43:42,008-Epoch 1 train day 65: CVR_AUC: 0.78538
+2025-10-09 14:43:42,009-Epoch 1 train day 65: NetCVR_AUC: 0.78895
+2025-10-09 14:43:42,009-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:43:55,177-Model saved at Epoch 1 , Day 65 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:43:55,185-Testing best model with test set!
+2025-10-09 14:44:04,247-stream_model_Global_CVR_AUC: 0.77307
+2025-10-09 14:44:04,247-stream_model_Global_NetCVR_AUC: 0.78487
+2025-10-09 14:44:04,248-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.78284
+2025-10-09 14:44:04,248-stream_model_Global_CVR_NLL: 0.20021
+2025-10-09 14:44:04,248-stream_model_Global_NetCVR_NLL: 0.16395
+2025-10-09 14:44:04,248-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16691
+2025-10-09 14:44:04,248-stream_model_Global_CVR_PCOC: 1.02841
+2025-10-09 14:44:04,248-stream_model_Global_NetCVR_PCOC: 1.02239
+2025-10-09 14:44:04,248-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.33434
+2025-10-09 14:44:04,248-stream_model_Global_CVR_PRAUC: 0.20818
+2025-10-09 14:44:04,248-stream_model_Global_NetCVR_PRAUC: 0.18765
+2025-10-09 14:44:04,248-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18436
+2025-10-09 14:44:04,248-pretrained_model_Global_CVR_AUC: 0.73301
+2025-10-09 14:44:04,248-pretrained_model_Global_NetCVR_AUC: 0.74930
+2025-10-09 14:44:04,248-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74567
+2025-10-09 14:44:04,248-pretrained_model_Global_CVR_NLL: 0.20952
+2025-10-09 14:44:04,248-pretrained_model_Global_NetCVR_NLL: 0.17068
+2025-10-09 14:44:04,248-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17082
+2025-10-09 14:44:04,248-pretrained_model_Global_CVR_PCOC: 0.83535
+2025-10-09 14:44:04,248-pretrained_model_Global_NetCVR_PCOC: 0.87270
+2025-10-09 14:44:04,248-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.08385
+2025-10-09 14:44:04,248-pretrained_model_Global_CVR_PRAUC: 0.18305
+2025-10-09 14:44:04,248-pretrained_model_Global_NetCVR_PRAUC: 0.16537
+2025-10-09 14:44:04,248-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16324
+2025-10-09 14:44:12,857-Epoch 1 Day 66- Mean Loss: 0.66884
+2025-10-09 14:44:12,857-Epoch 1 train day 66: CVR_AUC: 0.77976
+2025-10-09 14:44:12,857-Epoch 1 train day 66: NetCVR_AUC: 0.78253
+2025-10-09 14:44:12,857-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:44:25,801-Model saved at Epoch 1 , Day 66 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:44:25,808-Testing best model with test set!
+2025-10-09 14:44:33,378-stream_model_Global_CVR_AUC: 0.75996
+2025-10-09 14:44:33,378-stream_model_Global_NetCVR_AUC: 0.77495
+2025-10-09 14:44:33,378-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.77340
+2025-10-09 14:44:33,379-stream_model_Global_CVR_NLL: 0.20570
+2025-10-09 14:44:33,379-stream_model_Global_NetCVR_NLL: 0.16674
+2025-10-09 14:44:33,379-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16957
+2025-10-09 14:44:33,379-stream_model_Global_CVR_PCOC: 1.02880
+2025-10-09 14:44:33,379-stream_model_Global_NetCVR_PCOC: 1.04942
+2025-10-09 14:44:33,379-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.34909
+2025-10-09 14:44:33,379-stream_model_Global_CVR_PRAUC: 0.20049
+2025-10-09 14:44:33,379-stream_model_Global_NetCVR_PRAUC: 0.17909
+2025-10-09 14:44:33,379-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.17824
+2025-10-09 14:44:33,379-pretrained_model_Global_CVR_AUC: 0.72140
+2025-10-09 14:44:33,379-pretrained_model_Global_NetCVR_AUC: 0.74054
+2025-10-09 14:44:33,379-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73674
+2025-10-09 14:44:33,379-pretrained_model_Global_CVR_NLL: 0.21414
+2025-10-09 14:44:33,379-pretrained_model_Global_NetCVR_NLL: 0.17274
+2025-10-09 14:44:33,379-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.17324
+2025-10-09 14:44:33,379-pretrained_model_Global_CVR_PCOC: 0.84995
+2025-10-09 14:44:33,379-pretrained_model_Global_NetCVR_PCOC: 0.89615
+2025-10-09 14:44:33,379-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.11457
+2025-10-09 14:44:33,379-pretrained_model_Global_CVR_PRAUC: 0.17565
+2025-10-09 14:44:33,379-pretrained_model_Global_NetCVR_PRAUC: 0.15774
+2025-10-09 14:44:33,379-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15515
+2025-10-09 14:44:40,660-Epoch 1 Day 67- Mean Loss: 0.69055
+2025-10-09 14:44:40,660-Epoch 1 train day 67: CVR_AUC: 0.76674
+2025-10-09 14:44:40,660-Epoch 1 train day 67: NetCVR_AUC: 0.77392
+2025-10-09 14:44:40,660-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:44:55,002-Model saved at Epoch 1 , Day 67 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:44:55,008-Testing best model with test set!
+2025-10-09 14:45:02,861-stream_model_Global_CVR_AUC: 0.75863
+2025-10-09 14:45:02,862-stream_model_Global_NetCVR_AUC: 0.77114
+2025-10-09 14:45:02,862-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.76982
+2025-10-09 14:45:02,862-stream_model_Global_CVR_NLL: 0.21472
+2025-10-09 14:45:02,862-stream_model_Global_NetCVR_NLL: 0.17606
+2025-10-09 14:45:02,862-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17728
+2025-10-09 14:45:02,862-stream_model_Global_CVR_PCOC: 0.93459
+2025-10-09 14:45:02,862-stream_model_Global_NetCVR_PCOC: 0.93255
+2025-10-09 14:45:02,862-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.21219
+2025-10-09 14:45:02,862-stream_model_Global_CVR_PRAUC: 0.21437
+2025-10-09 14:45:02,862-stream_model_Global_NetCVR_PRAUC: 0.19146
+2025-10-09 14:45:02,862-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.19046
+2025-10-09 14:45:02,862-pretrained_model_Global_CVR_AUC: 0.71866
+2025-10-09 14:45:02,862-pretrained_model_Global_NetCVR_AUC: 0.73519
+2025-10-09 14:45:02,862-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73131
+2025-10-09 14:45:02,862-pretrained_model_Global_CVR_NLL: 0.22441
+2025-10-09 14:45:02,862-pretrained_model_Global_NetCVR_NLL: 0.18314
+2025-10-09 14:45:02,862-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18299
+2025-10-09 14:45:02,862-pretrained_model_Global_CVR_PCOC: 0.81525
+2025-10-09 14:45:02,862-pretrained_model_Global_NetCVR_PCOC: 0.85246
+2025-10-09 14:45:02,862-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.05740
+2025-10-09 14:45:02,862-pretrained_model_Global_CVR_PRAUC: 0.18648
+2025-10-09 14:45:02,862-pretrained_model_Global_NetCVR_PRAUC: 0.16447
+2025-10-09 14:45:02,862-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16332
+2025-10-09 14:45:10,178-Epoch 1 Day 68- Mean Loss: 0.72698
+2025-10-09 14:45:10,178-Epoch 1 train day 68: CVR_AUC: 0.75613
+2025-10-09 14:45:10,178-Epoch 1 train day 68: NetCVR_AUC: 0.76259
+2025-10-09 14:45:10,178-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:45:23,343-Model saved at Epoch 1 , Day 68 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:45:23,351-Testing best model with test set!
+2025-10-09 14:45:31,616-stream_model_Global_CVR_AUC: 0.76010
+2025-10-09 14:45:31,617-stream_model_Global_NetCVR_AUC: 0.77364
+2025-10-09 14:45:31,617-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.77160
+2025-10-09 14:45:31,617-stream_model_Global_CVR_NLL: 0.21514
+2025-10-09 14:45:31,617-stream_model_Global_NetCVR_NLL: 0.17635
+2025-10-09 14:45:31,617-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17914
+2025-10-09 14:45:31,617-stream_model_Global_CVR_PCOC: 1.01351
+2025-10-09 14:45:31,617-stream_model_Global_NetCVR_PCOC: 1.00936
+2025-10-09 14:45:31,617-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.31474
+2025-10-09 14:45:31,617-stream_model_Global_CVR_PRAUC: 0.21284
+2025-10-09 14:45:31,617-stream_model_Global_NetCVR_PRAUC: 0.18844
+2025-10-09 14:45:31,617-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.18767
+2025-10-09 14:45:31,617-pretrained_model_Global_CVR_AUC: 0.71812
+2025-10-09 14:45:31,617-pretrained_model_Global_NetCVR_AUC: 0.73537
+2025-10-09 14:45:31,617-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73073
+2025-10-09 14:45:31,617-pretrained_model_Global_CVR_NLL: 0.22604
+2025-10-09 14:45:31,617-pretrained_model_Global_NetCVR_NLL: 0.18428
+2025-10-09 14:45:31,617-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18394
+2025-10-09 14:45:31,617-pretrained_model_Global_CVR_PCOC: 0.79405
+2025-10-09 14:45:31,617-pretrained_model_Global_NetCVR_PCOC: 0.83245
+2025-10-09 14:45:31,617-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.03006
+2025-10-09 14:45:31,617-pretrained_model_Global_CVR_PRAUC: 0.18203
+2025-10-09 14:45:31,617-pretrained_model_Global_NetCVR_PRAUC: 0.16003
+2025-10-09 14:45:31,617-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15858
+2025-10-09 14:45:39,540-Epoch 1 Day 69- Mean Loss: 0.73935
+2025-10-09 14:45:39,540-Epoch 1 train day 69: CVR_AUC: 0.76075
+2025-10-09 14:45:39,540-Epoch 1 train day 69: NetCVR_AUC: 0.76526
+2025-10-09 14:45:39,540-Epoch 1 - Learning Rate: 0.01000000
+2025-10-09 14:45:52,380-Model saved at Epoch 1 , Day 69 , Path : /mnt/nfs/luomingxuan/airbench/main_exp4/Ali_esdfmRF_train_stream_dp.pth
+2025-10-09 14:45:52,393-Testing best model with test set!
+2025-10-09 14:45:56,971-stream_model_Global_CVR_AUC: 0.77355
+2025-10-09 14:45:56,971-stream_model_Global_NetCVR_AUC: 0.78180
+2025-10-09 14:45:56,971-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.78042
+2025-10-09 14:45:56,971-stream_model_Global_CVR_NLL: 0.19354
+2025-10-09 14:45:56,971-stream_model_Global_NetCVR_NLL: 0.15896
+2025-10-09 14:45:56,971-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.16470
+2025-10-09 14:45:56,971-stream_model_Global_CVR_PCOC: 1.22938
+2025-10-09 14:45:56,971-stream_model_Global_NetCVR_PCOC: 1.23779
+2025-10-09 14:45:56,971-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.59740
+2025-10-09 14:45:56,971-stream_model_Global_CVR_PRAUC: 0.19724
+2025-10-09 14:45:56,971-stream_model_Global_NetCVR_PRAUC: 0.17125
+2025-10-09 14:45:56,972-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16922
+2025-10-09 14:45:56,972-pretrained_model_Global_CVR_AUC: 0.73235
+2025-10-09 14:45:56,972-pretrained_model_Global_NetCVR_AUC: 0.74683
+2025-10-09 14:45:56,972-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.74393
+2025-10-09 14:45:56,972-pretrained_model_Global_CVR_NLL: 0.20049
+2025-10-09 14:45:56,972-pretrained_model_Global_NetCVR_NLL: 0.16339
+2025-10-09 14:45:56,972-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.16367
+2025-10-09 14:45:56,972-pretrained_model_Global_CVR_PCOC: 0.84846
+2025-10-09 14:45:56,972-pretrained_model_Global_NetCVR_PCOC: 0.88443
+2025-10-09 14:45:56,972-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.10245
+2025-10-09 14:45:56,972-pretrained_model_Global_CVR_PRAUC: 0.17174
+2025-10-09 14:45:56,972-pretrained_model_Global_NetCVR_PRAUC: 0.15068
+2025-10-09 14:45:56,972-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.14952
+2025-10-09 14:45:56,982-==== Average Test Metrics Over All Days ====
+2025-10-09 14:45:56,982-stream_model_Global_CVR_AUC: 0.74791
+2025-10-09 14:45:56,982-stream_model_Global_NetCVR_AUC: 0.75882
+2025-10-09 14:45:56,982-stream_model_Global_NetCVR_AUC_by_cvr_head: 0.75646
+2025-10-09 14:45:56,982-stream_model_Global_CVR_NLL: 0.21829
+2025-10-09 14:45:56,983-stream_model_Global_NetCVR_NLL: 0.17674
+2025-10-09 14:45:56,983-stream_model_Global_NetCVR_NLL_by_cvr_head: 0.17968
+2025-10-09 14:45:56,983-stream_model_Global_CVR_PCOC: 1.00375
+2025-10-09 14:45:56,983-stream_model_Global_NetCVR_PCOC: 1.00470
+2025-10-09 14:45:56,983-stream_model_Global_NetCVR_PCOC_by_cvr_head: 1.32897
+2025-10-09 14:45:56,983-stream_model_Global_CVR_PRAUC: 0.19399
+2025-10-09 14:45:56,983-stream_model_Global_NetCVR_PRAUC: 0.16797
+2025-10-09 14:45:56,983-stream_model_Global_NetCVR_PRAUC_by_cvr_head: 0.16553
+2025-10-09 14:45:56,983-pretrained_model_Global_CVR_AUC: 0.72014
+2025-10-09 14:45:56,983-pretrained_model_Global_NetCVR_AUC: 0.73521
+2025-10-09 14:45:56,983-pretrained_model_Global_NetCVR_AUC_by_cvr_head: 0.73200
+2025-10-09 14:45:56,983-pretrained_model_Global_CVR_NLL: 0.22528
+2025-10-09 14:45:56,983-pretrained_model_Global_NetCVR_NLL: 0.18096
+2025-10-09 14:45:56,983-pretrained_model_Global_NetCVR_NLL_by_cvr_head: 0.18051
+2025-10-09 14:45:56,983-pretrained_model_Global_CVR_PCOC: 0.78621
+2025-10-09 14:45:56,983-pretrained_model_Global_NetCVR_PCOC: 0.83708
+2025-10-09 14:45:56,983-pretrained_model_Global_NetCVR_PCOC_by_cvr_head: 1.04143
+2025-10-09 14:45:56,983-pretrained_model_Global_CVR_PRAUC: 0.17571
+2025-10-09 14:45:56,983-pretrained_model_Global_NetCVR_PRAUC: 0.15241
+2025-10-09 14:45:56,983-pretrained_model_Global_NetCVR_PRAUC_by_cvr_head: 0.15083
+
