@@ -1,6 +1,5 @@
 # Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)]()
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange)]()
 
