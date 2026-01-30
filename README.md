@@ -17,7 +17,7 @@ In this work, we present systematic insights into the cascading nature of delaye
 The experiments are based on a large-scale industrial dataset from Alibaba, capturing multi-stage user behaviors including click, add-to-cart, payment, and refund, with precise timestamps for modeling delay dynamics.
 
 👉 **Dataset Information**:  
-CASCADE dataset on [HuggingFace](https://huggingface.co/datasets/alimamaTech/TRACE)
+CASCADE dataset on [HuggingFace](https://huggingface.co/datasets/alimamaTech/CASCADE)
 
 
 📁 Data structure includes:
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 ### 2. processing data
 
-Download the CASCADE dataset on [HuggingFace](https://huggingface.co/datasets/alimamaTech/TRACE) and process it by using scripts below and place it under `data/CASCADE/`.
+Download the CASCADE dataset on [HuggingFace](https://huggingface.co/datasets/alimamaTech/CASCADE) and process it by using scripts below and place it under `data/CASCADE/`.
 ```bash
 # to process data
 python process_CASCADE_with_MappingDict.py
