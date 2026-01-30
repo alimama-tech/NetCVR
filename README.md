@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-green)]()
 [![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange)]()
 
-Here is the official implenmentation of our WWW 2026 paper [*Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions*](./NetCVR-TESLA-paper.pdf).
+Here is the official implenmentation of our WWW 2026 paper [*Modeling Cascaded Delay Feedback for Online Net Conversion Rate Prediction: Benchmark, Insights and Solutions*](https://arxiv.org/pdf/2601.19965).
 This repository provides a comprehensive benchmark and open-source toolkit for **Modeling Cascaded Delay Feedback** in online **Net Conversion Rate (NetCVR)** prediction.
 
 In this work, we present systematic insights into the cascading nature of delayed feedback signals and propose effective modeling solutions. This codebase includes datasets, models, training pipelines, and evaluation tools to support future research in delay feedback modeling.
@@ -17,9 +17,8 @@ In this work, we present systematic insights into the cascading nature of delaye
 The experiments are based on a large-scale industrial dataset from Alibaba, capturing multi-stage user behaviors including click, add-to-cart, payment, and refund, with precise timestamps for modeling delay dynamics.
 
 👉 **Dataset Information**:  
-[CASCADE Dataset]() *(Coming Soon)*
+CASCADE dataset on [HuggingFace](https://huggingface.co/datasets/alimamaTech/TRACE)
 
-> 🔒 Note: Due to data privacy policies, the full raw dataset cannot be publicly released. A processed benchmark version with anonymized features will be made available for research purposes.
 
 📁 Data structure includes:
 - User/item/Related Features
@@ -88,7 +87,7 @@ pip install -r requirements.txt
 
 ### 2. processing data
 
-Download [CASCADE Dataset]() and process it by using scripts below or directly download the processed version from the [link]() above and place it under `data/CASCADE/`. (coming soon)
+Download the CASCADE dataset on [HuggingFace](https://huggingface.co/datasets/alimamaTech/TRACE) and process it by using scripts below and place it under `data/CASCADE/`.
 ```bash
 # to process data
 python process_CASCADE_with_MappingDict.py
